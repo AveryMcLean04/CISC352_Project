@@ -47,6 +47,7 @@ player_vars = {
         "FT%": row["FT%"],
         "STL": row["STL"],
         "BLK": row["BLK"],
+        "eFG%": row["eFG%"],
     }
     for _, row in top12.iterrows()
 }
@@ -73,13 +74,72 @@ for p in player_list:
 model.add(total_selected == 5)
 
 #making sure there is always a center on the floor
-centers_selected = 0
-#loop through all players and check if they are centers
+# centers_selected = 0
+# #loop through all players and check if they are centers
+# for p in player_list:
+#     if player_vars[p]["Pos"] == 5:
+#         centers_selected += player_in[p]
+# #adding the constraint
+# model.add(centers_selected >= 1)
+
+#want to have 2 "wings", I am counting SG, SF and PF as wings for the time being
+wings = 0
 for p in player_list:
-    if player_vars[p]["Pos"] == 5:
-        centers_selected += player_in[p]
-#adding the constraint
-model.add(centers_selected >= 1)
+    if player_vars[p]["Pos"] == 2 or player_vars[p]["Pos"] == 3 or player_vars[p]["Pos"] == 4:
+        wings += player_in[p]
+model.add(wings >=2)
+
+
+#making sure the lineup has 2 players who can shoot well 
+good_shooters = 0
+#adding another player who can shoot at an almost average level
+mid_shooters = 0
+#loop through all players and check if they have a good enough 3P%
+for p in player_list:
+    if player_vars[p]["3P%"] >= 0.359:
+        good_shooters += player_in[p]
+    elif player_vars[p]["3P%"] > 0.34:
+        mid_shooters += player_in[p]
+#adding the constraints
+model.add(good_shooters + mid_shooters >= 2)
+# model.add(mid_shooters >= 1)
+
+#I use per 36 minutes stats for some of the constraints because a player getting less minutes may still be a good rebounder/playmaker etc
+#but if they play limited minutes their average will be lower so I want to account for that
+
+#lineup must have some rebounders, will be finding each players rebounds/36 minutes
+main_rebounders = 0
+sec_rebounders = 0
+for p in player_list:
+    rp36 = (player_vars[p]["REB"] / player_vars[p]["MPG"]) * 36
+    if rp36 > 10:
+        main_rebounders += player_in[p]
+    elif rp36 > 7:
+        sec_rebounders += player_in[p]
+model.add(main_rebounders + sec_rebounders >= 2)
+
+#must have a couple of players who can pass and create for others
+main_playmaker = 0
+sec_playmaker = 0
+for p in player_list:
+    ap36 = (player_vars[p]["AST"] / player_vars[p]["MPG"]) * 36
+    if ap36 > 5:
+        main_playmaker += player_in[p]
+    elif ap36 > 3:
+        sec_playmaker += player_in[p]
+model.add(main_playmaker + sec_playmaker >= 2)
+
+#want at least 2 quality defenders and one ok defender
+good_def = 0
+mid_def = 0
+for p in player_list:
+    #stocks36 is combined steals and blocks per 36 minutes
+    stocks36 = ((player_vars[p]["STL"] + player_vars[p]["BLK"]) / player_vars[p]["MPG"]) * 36
+    if stocks36 > 2.3:
+        good_def += player_in[p]
+    elif stocks36 > 1.5:
+        mid_def += player_in[p]
+model.add(good_def + mid_def >= 3)
 
 solver = cp_model.CpSolver()
 
