@@ -1,6 +1,10 @@
 import pandas as pd
 import json
 from ortools.sat.python import cp_model
+"""
+This is the same as my csp_start functionally but it will act for all 30 nba teams, tell me the average number of lineups
+that teams make and who had the most and least lineups.
+"""
 
 class LineupSolutionPrinter(cp_model.CpSolverSolutionCallback):
     """Prints all valid lineups and tracks the count of solutions."""

@@ -2,6 +2,10 @@ import pandas as pd
 import json
 from ortools.sat.python import cp_model
 
+"""
+The constrant solver so far, it takes in an abbreviation from the user and creates all feasible lineups based 
+on the constraints, it outputs them all to the terminal and says how many solutions it found.
+"""
 class LineupSolutionPrinter(cp_model.CpSolverSolutionCallback):
     """Prints all valid lineups."""
     def __init__(self, variables):
@@ -32,9 +36,11 @@ top12 = (
     .sort_values(by="PTS", ascending=False).head(12)
 )
 
+#Can only deal with integers so we map the positions to numbers for the solver
 pos_to_num = {"PG": 1, "SG": 2, "SF": 3, "PF": 4, "C": 5}
 player_list = list(top12["Player"])
 
+#getting all the players stats on a specified team.
 player_vars = {
     row["Player"]: {
         "Pos": pos_to_num.get(row["Pos"], -1),
@@ -142,7 +148,6 @@ for p in player_list:
 model.add(good_def + mid_def >= 3)
 
 solver = cp_model.CpSolver()
-
 
 # Enumerate all solutions
 solution_printer = LineupSolutionPrinter(player_in)
