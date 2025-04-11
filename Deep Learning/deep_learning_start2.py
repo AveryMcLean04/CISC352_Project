@@ -6,6 +6,17 @@ import ast
 from torch.nn.utils.rnn import pad_sequence
 from collections import defaultdict
 
+# Load data
+data = pd.read_csv('Deep Learning/lineup_performance.csv')
+
+# Add epsilon to avoid division by zero
+epsilon = 1e-6
+
+# Calculate Impact per 36 minutes
+data['Impact per 36'] = (data['Net Impact'] / (data['Minutes Played'] + epsilon)) * 36
+data['Impact per 36'] = data['Impact per 36'].clip(-40, 40)  # reasonable upper/lower bound
+
+
 # Define the neural network model
 class Net(nn.Module):
     def __init__(self, num_players, embedding_dim, hidden_size, output_size):
@@ -27,13 +38,12 @@ class Net(nn.Module):
         x = self.fc2(x)
         return x
 
+
 def lineup_to_indices(lineup, player_to_index, is_home):
     lineup_indices = [player_to_index[player] for player in lineup]
     home_away_info = [1 if is_home else 0] * len(lineup)
     return lineup_indices + home_away_info
 
-# Load data
-data = pd.read_csv('lineup_performance.csv')
 
 # Initialize a list to store the starting lineups
 starting_lineups = []
@@ -42,18 +52,18 @@ starting_lineups = []
 for game_id, game_data in data.groupby('GameID'):
     home_lineup = None
     away_lineup = None
-    
+
     # Find the first Home and Away lineup in each game
     for _, row in game_data.iterrows():
         if row['Team'] == 'Away' and away_lineup is None:
             away_lineup = ast.literal_eval(row['Lineup'])
         if row['Team'] == 'Home' and home_lineup is None:
             home_lineup = ast.literal_eval(row['Lineup'])
-        
+
         # Once both lineups are found, break the loop
         if home_lineup and away_lineup:
             break
-    
+
     # Store the lineups if both are found
     if home_lineup and away_lineup:
         starting_lineups.append((game_id, 'Home', home_lineup))
@@ -73,13 +83,6 @@ valid_lineups = [lineup for lineup, count in lineup_counts.items() if count >= l
 
 filtered_starting_lineups = [(game_id, team, lineup) for game_id, team, lineup in starting_lineups if tuple(sorted(lineup)) in valid_lineups]
 
-# Output the results to verify
-print(f"Total valid starting lineups: {len(filtered_starting_lineups)}")
-print("\nSample valid starting lineups:")
-for game_id, team, lineup in starting_lineups[:5]:  # Show a sample of 5
-    print(f"GameID: {game_id}, Team: {team}, Lineup: {lineup}")
-
-
 # Get all unique players from the season
 all_players = set()
 for lineup_str in data['Lineup']:
@@ -95,7 +98,7 @@ X_train = [
     lineup_to_indices(ast.literal_eval(row['Lineup']), player_to_index, row['Team'] == 'Home') 
     for _, row in data.iterrows()
 ]
-y_train = list(data['Net Impact'])
+y_train = list(data['Impact per 36'])
 
 # Convert to PyTorch tensors and pad sequences
 X_train = [torch.tensor(x, dtype=torch.long) for x in X_train]
@@ -120,51 +123,30 @@ num_epochs = 500
 for epoch in range(num_epochs):
     y_pred = model(X_train)  # Corrected batch input
     loss = criterion(y_pred, y_train)
-    
+
     optimizer.zero_grad()
     loss.backward()
     optimizer.step()
-    
+
     if (epoch + 1) % 20 == 0:
         print(f'Epoch [{epoch+1}/{num_epochs}], Loss: {loss.item():.4f}')
 
 # After training, let's evaluate all lineups
-# print("\n=== Predictions for All Lineups in Season ===")
-# print("Team | Actual Net Impact | Predicted Net Impact | Lineup")
-# print("-" * 100)
-
-# Evaluate on regular lineups
 regular_predictions = []
 with torch.no_grad():
     for _, row in data.iterrows():
         lineup = ast.literal_eval(row['Lineup'])
-        actual_impact = row['Net Impact']
-        
+        actual_impact = row['Impact per 36']
+
         lineup_vector = lineup_to_indices(lineup, player_to_index, row['Team'] == 'Home')
         lineup_tensor = torch.tensor([lineup_vector], dtype=torch.long)
         lineup_tensor = pad_sequence(lineup_tensor, batch_first=True, padding_value=0)  # Pad sequence
-        
+
         predicted_impact = model(lineup_tensor).item()
 
         regular_predictions.append((lineup, predicted_impact))
-        
-        team = row['Team']
-        lineup_str = ', '.join(lineup)
-        # print(f"{team} | {actual_impact:15.2f} | {predicted_impact:19.2f} | {lineup_str}")
 
 regular_predictions.sort(key=lambda x: x[1], reverse=True)
-
-# # Find the best and worst predicted lineups
-# print("\n=== Best Predicted Lineups ===")
-# for lineup, impact in regular_predictions[:3]:
-#     print(f"Impact: {impact:.2f} | Lineup: {', '.join(lineup)}")
-
-# print("\n=== Worst Predicted Lineups ===")
-# for lineup, impact in regular_predictions[-3:]:
-#     print(f"Impact: {impact:.2f} | Lineup: {', '.join(lineup)}")
-
-# Evaluate on filtered starting lineups
-
 
 # Get the starting lineups for filtering
 valid_lineup_set = set(tuple(sorted(lineup)) for _, team, lineup in filtered_starting_lineups)
@@ -176,12 +158,12 @@ unique_predictions = []
 with torch.no_grad():
     for _, row in data.iterrows():
         lineup = ast.literal_eval(row['Lineup'])
-        actual_impact = row['Net Impact']
-        
+        actual_impact = row['Impact per 36']
+
         lineup_vector = lineup_to_indices(lineup, player_to_index, row['Team'] == 'Home')
         lineup_tensor = torch.tensor([lineup_vector], dtype=torch.long)
         lineup_tensor = pad_sequence(lineup_tensor, batch_first=True, padding_value=0)  # Pad sequence
-        
+
         predicted_impact = model(lineup_tensor).item()
 
         lineup_tuple = tuple(sorted(lineup))
@@ -189,13 +171,9 @@ with torch.no_grad():
             unique_lineups.add(lineup_tuple)
             unique_predictions.append((lineup, predicted_impact, row['Team'], row['GameID']))
 
-# Now filter the predictions to only include those that are valid starting lineups
 filtered_predictions = [prediction for prediction in unique_predictions if tuple(sorted(prediction[0])) in valid_lineup_set]
-
-# Sort by predicted impact
 filtered_predictions.sort(key=lambda x: x[1], reverse=True)
 
-# Output the best and worst predicted starting lineups
 print("\n=== Best Predicted Starting Lineups ===")
 for lineup, impact, team, game_id in filtered_predictions[:5]:
     print(f"Impact: {impact:.2f} | Lineup: {', '.join(lineup)}")

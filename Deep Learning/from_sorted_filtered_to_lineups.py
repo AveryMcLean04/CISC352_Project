@@ -1,4 +1,5 @@
 import pandas as pd
+from datetime import datetime
 
 """
 This script tracks the net ratings of each lineup on the court during the 2021-2022 NBA season. 
@@ -7,7 +8,7 @@ Takes sorted_filtered_2021_22_season.csv and gets every lineup for both teams in
 it into lineup_performance.csv.
 """
 
-df = pd.read_csv("sorted_filtered_2021_22_season.csv", encoding="ISO-8859-1", delimiter=",")
+df = pd.read_csv("Deep Learning/sorted_filtered_2021_22_season.csv", encoding="ISO-8859-1", delimiter=",")
 
 # Convert 'Date' column to datetime format for easy comparison
 df['Date'] = pd.to_datetime(df['Date'], format='%Y-%m-%d')
@@ -24,6 +25,20 @@ away_score_at_entry_for_away = None
 home_score_at_entry_for_away = None
 home_score_at_entry_for_home = None
 away_score_at_entry_for_home = None
+away_entry_time_for_away = None
+home_entry_time_for_home = None
+
+def calculate_minutes_played(start_time, end_time):
+    if start_time is None or end_time is None:
+        return 0  # No time data available yet
+    try:
+        start = datetime.strptime(start_time.split(".")[0], "%M:%S")
+        end = datetime.strptime(end_time.split(".")[0], "%M:%S")
+        return abs((start - end).total_seconds() / 60)
+    except Exception as e:
+        print(f"Error calculating minutes played between {start_time} and {end_time}: {e}")
+        return 0
+
 
 
 for index, row in df.iterrows():
@@ -32,6 +47,9 @@ for index, row in df.iterrows():
 
     # If new game starts, reset all tracking variables
     if game_id != previous_game_id:
+        away_entry_time_for_away = "12:00"
+        home_entry_time_for_home = "12:00"
+
         print(f"Processing new game: {game_id}")
     
         first_row = df[df["GameID"] == game_id].iloc[0]
@@ -49,6 +67,9 @@ for index, row in df.iterrows():
     
     # If new quarter starts in the same game, capture the previous lineups' performance and reset
     elif current_period != previous_period:
+        away_entry_time_for_away = "12:00"
+        home_entry_time_for_home = "12:00"
+
         print(f"Processing new period: {current_period} in game: {game_id}")
         
         # Record performance of the previous lineups before the quarter break
@@ -64,9 +85,12 @@ for index, row in df.iterrows():
             'Lineup': current_away_lineup,
             'Points Scored': points_scored_away,
             'Points Allowed': points_allowed_away,
-            'Net Impact': net_impact_away
+            'Net Impact': net_impact_away,
+            'Minutes Played': calculate_minutes_played(away_entry_time_for_away, row['Time'])
         })
         
+        away_entry_time_for_away = row['Time']
+
         points_scored_home = row['HomeScore'] - home_score_at_entry_for_home
         points_allowed_home = row['AwayScore'] - away_score_at_entry_for_home
         net_impact_home = points_scored_home - points_allowed_home
@@ -79,9 +103,13 @@ for index, row in df.iterrows():
             'Lineup': current_home_lineup,
             'Points Scored': points_scored_home,
             'Points Allowed': points_allowed_home,
-            'Net Impact': net_impact_home
+            'Net Impact': net_impact_home,
+            'Minutes Played': calculate_minutes_played(home_entry_time_for_home, row['Time'])
+
         })
         
+        home_entry_time_for_home = row['Time']
+
         # Get the lineups for the new quarter
         # Find the first row of the new period
         first_row_of_period = df[(df["GameID"] == game_id) & (df["Period"] == current_period)].iloc[0]
@@ -117,8 +145,12 @@ for index, row in df.iterrows():
             'Lineup': current_away_lineup,
             'Points Scored': points_scored_away,
             'Points Allowed': points_allowed_away,
-            'Net Impact': net_impact_away
+            'Net Impact': net_impact_away,
+            'Minutes Played': calculate_minutes_played(away_entry_time_for_away, row['Time'])
+
         })
+
+        away_entry_time_for_away = row['Time']
 
         # Update the lineup for Away using the current row's data
         if not pd.isna(row['AwayIn']):
@@ -152,8 +184,12 @@ for index, row in df.iterrows():
             'Lineup': current_home_lineup,
             'Points Scored': points_scored_home,
             'Points Allowed': points_allowed_home,
-            'Net Impact': net_impact_home
+            'Net Impact': net_impact_home,
+            'Minutes Played': calculate_minutes_played(home_entry_time_for_home, row['Time'])
+
         })
+
+        home_entry_time_for_home = row['Time']
 
         # Update the lineup for Home using the current row's data
         if not pd.isna(row['HomeIn']):
@@ -192,9 +228,13 @@ if previous_game_id is not None:
         'Lineup': current_away_lineup,
         'Points Scored': points_scored_away,
         'Points Allowed': points_allowed_away,
-        'Net Impact': net_impact_away
+        'Net Impact': net_impact_away,
+        'Minutes Played': calculate_minutes_played(away_entry_time_for_away, row['Time'])
+
     })
     
+    away_entry_time_for_away = row['Time']
+
     points_scored_home = last_row['HomeScore'] - home_score_at_entry_for_home
     points_allowed_home = last_row['AwayScore'] - away_score_at_entry_for_home
     net_impact_home = points_scored_home - points_allowed_home
@@ -207,13 +247,15 @@ if previous_game_id is not None:
         'Lineup': current_home_lineup,
         'Points Scored': points_scored_home,
         'Points Allowed': points_allowed_home,
-        'Net Impact': net_impact_home
+        'Net Impact': net_impact_home,
+        'Minutes Played': calculate_minutes_played(home_entry_time_for_home, row['Time'])
+
     })
+    
+    home_entry_time_for_home = row['Time']
 
 # Convert lineup stats into a DataFrame
 lineup_df = pd.DataFrame(lineup_stats)
-
 # Save the DataFrame to a CSV file (overwrites previous file)
-lineup_df.to_csv("lineup_performance.csv", index=False)
-
-print("Lineup performance data saved to 'lineup_performance.csv'.")
+lineup_df.to_csv("Deep Learning/lineup_performance.csv", index=False)
+print("Lineup performance data saved to 'Deep Learning/lineup_performance.csv'.")
