@@ -8,7 +8,7 @@ Takes sorted_filtered_2021_22_season.csv and gets every lineup for both teams in
 it into lineup_performance.csv.
 """
 
-df = pd.read_csv("Deep Learning/sorted_filtered_2021_22_season.csv", encoding="ISO-8859-1", delimiter=",")
+df = pd.read_csv("Deep_Learning/sorted_filtered_2021_22_season.csv", encoding="ISO-8859-1", delimiter=",")
 
 # Convert 'Date' column to datetime format for easy comparison
 df['Date'] = pd.to_datetime(df['Date'], format='%Y-%m-%d')
@@ -267,5 +267,5 @@ if previous_game_id is not None:
 # Convert lineup stats into a DataFrame
 lineup_df = pd.DataFrame(lineup_stats)
 # Save the DataFrame to a CSV file (overwrites previous file)
-lineup_df.to_csv("Deep Learning/lineup_performance.csv", index=False)
+lineup_df.to_csv("Deep_Learning/lineup_performance.csv", index=False)
 print("Lineup performance data saved to 'Deep Learning/lineup_performance.csv'.")

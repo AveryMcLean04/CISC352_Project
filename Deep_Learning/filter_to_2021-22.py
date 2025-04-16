@@ -6,7 +6,7 @@ chronological order to sorted_filtered_2021-22_season.csv.
 """
 
 # Load the original CSV file
-df = pd.read_csv("Deep Learning/all_games.csv", encoding="ISO-8859-1", delimiter=",", on_bad_lines='skip')
+df = pd.read_csv("Deep_Learning/all_games.csv", encoding="ISO-8859-1", delimiter=",", on_bad_lines='skip')
 
 # Convert 'Date' column to datetime format
 df['Date'] = pd.to_datetime(df['Date'], format='%m/%d/%Y')
@@ -22,6 +22,6 @@ df_2021_22 = df[((df['Date'].dt.year == 2021) & (df['Date'].dt.month >= 9)) |  #
 df_sorted = df_2021_22.sort_values(by=['Date', 'GameID', 'PlayNum'], ascending=[True, True, True])
 
 # Save the sorted data to a new CSV file
-df_sorted.to_csv('Deep Learning/sorted_filtered_2021_22_season.csv', index=False)
+df_sorted.to_csv('Deep_Learning/sorted_filtered_2021_22_season.csv', index=False)
 
 print("Filtered and sorted data saved to 'sorted_filtered_2021_22_season.csv'")

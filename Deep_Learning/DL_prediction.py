@@ -29,7 +29,7 @@ abbrs = ["ATL", "BOS", "BRK", "CHO", "CHI", "CLE", "DAL", "DEN", "DET", "GSW", "
          "POR", "SAC", "SAS", "TOR", "UTA", "WAS"]
 
 # Load data
-data = pd.read_csv('Deep Learning/lineup_performance.csv')
+data = pd.read_csv('Deep_Learning/lineup_performance.csv')
 data['Impact per 36'] = (data['Net Impact'] / (data['Minutes Played'] + epsilon)) * 36
 data['Impact per 36'] = data['Impact per 36'].clip(-40, 40)
 
@@ -188,5 +188,5 @@ def write_team_lineups_for_abbrs(filtered_predictions, non_starting_predictions,
                 f.write(f"Adjusted Impact: {impact:.2f} |  Per 36: {per36:.2f} | Games: {games} | Minutes: {minutes:.1f} | Lineup: {', '.join(lineup)}\n")
             f.write("\n\n")
 
-write_team_lineups_for_abbrs(filtered_predictions, non_starting_predictions, abbrs, output_filename='Deep Learning/lineup_predictions.txt')
+write_team_lineups_for_abbrs(filtered_predictions, non_starting_predictions, abbrs, output_filename='Deep_Learning/lineup_predictions.txt')
 print("Finished! Info output to lineup_predictions.txt.")
