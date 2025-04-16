@@ -1,0 +1,450 @@
+Team: ATL
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 7.39 | Per 36: 13.57 | Games: 11 | Minutes: 119.8 | Lineup: capelca01, collijo01, huertke01, luwawti01, youngtr01
+Adjusted Impact: 5.41 | Per 36: 9.05 | Games: 15 | Minutes: 148.7 | Lineup: bogdabo01, capelca01, collijo01, huertke01, youngtr01
+Adjusted Impact: 3.43 | Per 36: 4.87 | Games: 16 | Minutes: 238.8 | Lineup: bogdabo01, capelca01, collijo01, huntede01, youngtr01
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: -0.65 |  Per 36: -1.04 | Games: 17 | Minutes: 166.0 | Lineup: capelca01, collijo01, huertke01, huntede01, youngtr01
+Adjusted Impact: -0.96 |  Per 36: -2.19 | Games: 7 | Minutes: 78.5 | Lineup: capelca01, huertke01, huntede01, luwawti01, youngtr01
+Adjusted Impact: -1.70 |  Per 36: -4.46 | Games: 7 | Minutes: 61.8 | Lineup: collijo01, huertke01, huntede01, okongon01, youngtr01
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 2.82 |  Per 36: 17.37 | Games: 6 | Minutes: 19.3 | Lineup: bogdabo01, gallida01, luwawti01, okongon01, wrighde01
+Adjusted Impact: 2.12 |  Per 36: 8.88 | Games: 14 | Minutes: 31.5 | Lineup: collijo01, gallida01, huertke01, reddica01, youngtr01
+Adjusted Impact: 1.87 |  Per 36: 6.10 | Games: 19 | Minutes: 44.1 | Lineup: bogdabo01, huntede01, okongon01, wrighde01, youngtr01
+
+
+Team: BOS
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 6.35 | Per 36: 7.48 | Games: 47 | Minutes: 563.0 | Lineup: brownja02, horfoal01, smartma01, tatumja01, williro04
+Adjusted Impact: 3.73 | Per 36: 7.25 | Games: 10 | Minutes: 106.2 | Lineup: brownja02, horfoal01, smartma01, tatumja01, theisda01
+Adjusted Impact: 2.98 | Per 36: 5.61 | Games: 32 | Minutes: 113.1 | Lineup: brownja02, smartma01, tatumja01, willigr01, williro04
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: -1.50 |  Per 36: -2.97 | Games: 12 | Minutes: 101.6 | Lineup: horfoal01, schrode01, smartma01, tatumja01, williro04
+Adjusted Impact: -1.88 |  Per 36: -6.70 | Games: 6 | Minutes: 38.9 | Lineup: brownja02, langfro01, smartma01, tatumja01, williro04
+Adjusted Impact: -1.90 |  Per 36: -2.99 | Games: 34 | Minutes: 175.9 | Lineup: brownja02, horfoal01, smartma01, tatumja01, willigr01
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 4.72 |  Per 36: 10.93 | Games: 22 | Minutes: 75.8 | Lineup: brownja02, horfoal01, tatumja01, whitede01, willigr01
+Adjusted Impact: 3.44 |  Per 36: 18.92 | Games: 9 | Minutes: 22.2 | Lineup: brownja02, horfoal01, pritcpa01, smartma01, tatumja01
+Adjusted Impact: 2.77 |  Per 36: 15.67 | Games: 6 | Minutes: 21.5 | Lineup: pritcpa01, smartma01, tatumja01, willigr01, williro04
+
+
+Team: BRK
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 5.91 | Per 36: 17.91 | Games: 4 | Minutes: 49.2 | Lineup: edwarke02, hardeja01, irvinky01, millspa02, sharpda01
+Adjusted Impact: 0.46 | Per 36: 0.74 | Games: 11 | Minutes: 160.2 | Lineup: brownbr01, duranke01, griffbl01, hardeja01, harrijo01
+Adjusted Impact: 0.35 | Per 36: 1.31 | Games: 4 | Minutes: 36.0 | Lineup: brownbr01, curryse01, drumman01, johnsja01, millspa02
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: 0.35 |  Per 36: 1.31 | Games: 4 | Minutes: 36.0 | Lineup: brownbr01, curryse01, drumman01, johnsja01, millspa02
+Adjusted Impact: -0.16 |  Per 36: -0.33 | Games: 14 | Minutes: 93.8 | Lineup: aldrila01, bembrde01, duranke01, hardeja01, millspa02
+Adjusted Impact: -0.28 |  Per 36: -0.42 | Games: 14 | Minutes: 199.7 | Lineup: brownbr01, curryse01, drumman01, duranke01, irvinky01
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 3.27 |  Per 36: 22.72 | Games: 6 | Minutes: 16.8 | Lineup: aldrila01, duranke01, hardeja01, johnsja01, millspa02
+Adjusted Impact: 2.46 |  Per 36: 10.32 | Games: 8 | Minutes: 31.3 | Lineup: bembrde01, claxtni01, hardeja01, johnsja01, millspa02
+Adjusted Impact: 2.29 |  Per 36: 10.77 | Games: 9 | Minutes: 27.1 | Lineup: aldrila01, duranke01, hardeja01, harrijo01, millspa02
+
+
+Team: CHO
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 2.32 | Per 36: 3.96 | Games: 34 | Minutes: 140.9 | Lineup: ballla01, bridgmi02, martico01, plumlma01, roziete01
+Adjusted Impact: 0.47 | Per 36: 0.62 | Games: 31 | Minutes: 329.7 | Lineup: ballla01, bridgmi02, plumlma01, roziete01, washipj01
+Adjusted Impact: -1.23 | Per 36: -3.19 | Games: 13 | Minutes: 63.0 | Lineup: ballla01, bridgmi02, haywago01, roziete01, washipj01
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: -1.37 |  Per 36: -3.51 | Games: 9 | Minutes: 63.8 | Lineup: ballla01, bridgmi02, haywago01, oubreke01, plumlma01
+Adjusted Impact: -2.29 |  Per 36: -2.97 | Games: 29 | Minutes: 337.3 | Lineup: ballla01, bridgmi02, haywago01, plumlma01, roziete01
+Adjusted Impact: -3.00 |  Per 36: -6.27 | Games: 21 | Minutes: 91.8 | Lineup: ballla01, bridgmi02, oubreke01, plumlma01, roziete01
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 3.73 |  Per 36: 18.79 | Games: 10 | Minutes: 24.8 | Lineup: ballla01, bridgmi02, haywago01, mcdanja01, oubreke01
+Adjusted Impact: 2.43 |  Per 36: 15.29 | Games: 10 | Minutes: 18.9 | Lineup: ballla01, bridgmi02, haywago01, oubreke01, washipj01
+Adjusted Impact: 1.83 |  Per 36: 12.30 | Games: 13 | Minutes: 17.4 | Lineup: ballla01, bridgmi02, martico01, oubreke01, plumlma01
+
+
+Team: CHI
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 5.51 | Per 36: 13.68 | Games: 5 | Minutes: 67.3 | Lineup: balllo01, bradlto01, carusal01, derozde01, lavinza01
+Adjusted Impact: 4.68 | Per 36: 9.88 | Games: 15 | Minutes: 90.0 | Lineup: derozde01, greenja02, lavinza01, vucevni01, whiteco01
+Adjusted Impact: 3.50 | Per 36: 12.86 | Games: 4 | Minutes: 37.4 | Lineup: derozde01, dosunay01, mckinal01, vucevni01, whiteco01
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: -1.65 |  Per 36: -5.10 | Games: 7 | Minutes: 47.9 | Lineup: balllo01, derozde01, jonesde02, lavinza01, vucevni01
+Adjusted Impact: -2.29 |  Per 36: -6.66 | Games: 10 | Minutes: 52.4 | Lineup: derozde01, dosunay01, greenja02, vucevni01, whiteco01
+Adjusted Impact: -4.16 |  Per 36: -9.10 | Games: 10 | Minutes: 84.3 | Lineup: carusal01, derozde01, dosunay01, lavinza01, vucevni01
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 4.53 |  Per 36: 12.15 | Games: 16 | Minutes: 59.5 | Lineup: balllo01, carusal01, derozde01, lavinza01, vucevni01
+Adjusted Impact: 3.59 |  Per 36: 23.80 | Games: 6 | Minutes: 17.8 | Lineup: carusal01, derozde01, dosunay01, vucevni01, whiteco01
+Adjusted Impact: 2.55 |  Per 36: 10.78 | Games: 10 | Minutes: 30.9 | Lineup: browntr01, cookty01, derozde01, thomama02, whiteco01
+
+
+Team: CLE
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 5.24 | Per 36: 15.25 | Games: 6 | Minutes: 52.3 | Lineup: garlada01, markkla01, mobleev01, okorois01, stevela01
+Adjusted Impact: 3.51 | Per 36: 7.34 | Games: 9 | Minutes: 91.4 | Lineup: allenja01, garlada01, markkla01, mobleev01, stevela01
+Adjusted Impact: 3.12 | Per 36: 11.34 | Games: 3 | Minutes: 38.0 | Lineup: allenja01, garlada01, mobleev01, sextoco01, wadede01
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: -0.17 |  Per 36: -0.43 | Games: 6 | Minutes: 63.6 | Lineup: allenja01, garlada01, markkla01, mobleev01, sextoco01
+Adjusted Impact: -0.35 |  Per 36: -1.35 | Games: 3 | Minutes: 34.7 | Lineup: allenja01, garlada01, markkla01, okorois01, wadede01
+Adjusted Impact: -4.61 |  Per 36: -11.85 | Games: 5 | Minutes: 63.7 | Lineup: brownmo01, garlada01, leverca01, markkla01, okorois01
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 2.58 |  Per 36: 13.68 | Games: 10 | Minutes: 23.2 | Lineup: loveke01, mobleev01, osmande01, rondora01, stevela01
+Adjusted Impact: 2.14 |  Per 36: 11.85 | Games: 11 | Minutes: 22.0 | Lineup: allenja01, garlada01, mobleev01, osmande01, rubiori01
+Adjusted Impact: 1.97 |  Per 36: 12.74 | Games: 7 | Minutes: 18.4 | Lineup: goodwbr01, loveke01, markkla01, mobleev01, osmande01
+
+
+Team: DAL
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 5.69 | Per 36: 6.93 | Games: 54 | Minutes: 458.5 | Lineup: brunsja01, bullore01, doncilu01, finnedo01, poweldw01
+Adjusted Impact: 3.59 | Per 36: 11.38 | Games: 6 | Minutes: 46.1 | Lineup: bullore01, doncilu01, finnedo01, porzikr01, poweldw01
+Adjusted Impact: 1.43 | Per 36: 3.10 | Games: 13 | Minutes: 85.4 | Lineup: brunsja01, bullore01, dinwisp01, finnedo01, poweldw01
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: -1.20 |  Per 36: -3.70 | Games: 5 | Minutes: 47.9 | Lineup: brunsja01, finnedo01, hardati02, porzikr01, poweldw01
+Adjusted Impact: -2.06 |  Per 36: -4.43 | Games: 11 | Minutes: 87.2 | Lineup: brunsja01, doncilu01, finnedo01, klebima01, porzikr01
+Adjusted Impact: -6.82 |  Per 36: -13.71 | Games: 12 | Minutes: 99.0 | Lineup: doncilu01, finnedo01, hardati02, porzikr01, poweldw01
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 5.27 |  Per 36: 8.35 | Games: 33 | Minutes: 171.3 | Lineup: brunsja01, bullore01, doncilu01, finnedo01, klebima01
+Adjusted Impact: 2.06 |  Per 36: 5.22 | Games: 22 | Minutes: 65.2 | Lineup: brunsja01, doncilu01, finnedo01, hardati02, poweldw01
+Adjusted Impact: 1.97 |  Per 36: 7.68 | Games: 13 | Minutes: 34.5 | Lineup: bertada01, brunsja01, dinwisp01, greenjo02, klebima01
+
+
+Team: DEN
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 7.03 | Per 36: 8.11 | Games: 44 | Minutes: 652.6 | Lineup: bartowi01, gordoaa01, greenje02, jokicni01, morrimo01
+Adjusted Impact: 2.87 | Per 36: 5.06 | Games: 11 | Minutes: 131.4 | Lineup: gordoaa01, greenje02, jokicni01, morrimo01, riverau01
+Adjusted Impact: 2.18 | Per 36: 3.79 | Games: 9 | Minutes: 135.5 | Lineup: bartowi01, gordoaa01, jokicni01, morrimo01, portemi01
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: -2.40 |  Per 36: -8.18 | Games: 9 | Minutes: 41.5 | Lineup: bartowi01, campafa01, gordoaa01, jokicni01, riverau01
+Adjusted Impact: -5.04 |  Per 36: -15.00 | Games: 11 | Minutes: 50.6 | Lineup: bartowi01, gordoaa01, greenja01, jokicni01, morrimo01
+Adjusted Impact: -5.29 |  Per 36: -13.53 | Games: 6 | Minutes: 64.2 | Lineup: bartowi01, gordoaa01, greenja01, greenje02, morrimo01
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 2.26 |  Per 36: 9.17 | Games: 12 | Minutes: 32.7 | Lineup: campafa01, gordoaa01, greenje02, jokicni01, morrimo01
+Adjusted Impact: 1.90 |  Per 36: 27.19 | Games: 5 | Minutes: 7.5 | Lineup: campafa01, hylanbo01, jokicni01, nnajize01, riverau01
+Adjusted Impact: 1.57 |  Per 36: 18.67 | Games: 6 | Minutes: 9.2 | Lineup: forbebr01, gordoaa01, hylanbo01, jokicni01, riverau01
+
+
+Team: DET
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 2.39 | Per 36: 6.48 | Games: 8 | Minutes: 58.6 | Lineup: baglema01, beysa01, cunnica01, josepco01, stewais01
+Adjusted Impact: -0.61 | Per 36: -0.86 | Games: 23 | Minutes: 237.9 | Lineup: beysa01, cunnica01, grantje01, josepco01, stewais01
+Adjusted Impact: -1.49 | Per 36: -2.52 | Games: 15 | Minutes: 143.9 | Lineup: beysa01, cunnica01, diallha01, hayeski01, stewais01
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: -6.17 |  Per 36: -22.54 | Games: 4 | Minutes: 37.7 | Lineup: beysa01, cunnica01, hayeski01, liveris01, stewais01
+Adjusted Impact: -7.04 |  Per 36: -13.51 | Games: 14 | Minutes: 108.8 | Lineup: beysa01, cunnica01, diallha01, josepco01, stewais01
+Adjusted Impact: -8.31 |  Per 36: -11.88 | Games: 24 | Minutes: 232.8 | Lineup: beysa01, cunnica01, grantje01, hayeski01, stewais01
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 2.35 |  Per 36: 6.86 | Games: 6 | Minutes: 52.2 | Lineup: beysa01, diallha01, jacksfr01, josepco01, lylestr01
+Adjusted Impact: 2.26 |  Per 36: 15.61 | Games: 7 | Minutes: 16.9 | Lineup: beysa01, cunnica01, hayeski01, jacksfr01, stewais01
+Adjusted Impact: 1.68 |  Per 36: 8.63 | Games: 5 | Minutes: 24.3 | Lineup: baglema01, diallha01, hayeski01, mcgruro01, olynyke01
+
+
+Team: GSW
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 6.72 | Per 36: 11.00 | Games: 16 | Minutes: 156.9 | Lineup: curryst01, greendr01, looneke01, thompkl01, wiggian01
+Adjusted Impact: 4.11 | Per 36: 9.04 | Games: 14 | Minutes: 83.4 | Lineup: curryst01, looneke01, porteot01, thompkl01, wiggian01
+Adjusted Impact: 1.09 | Per 36: 2.67 | Games: 11 | Minutes: 69.2 | Lineup: curryst01, greendr01, porteot01, thompkl01, wiggian01
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: -1.29 |  Per 36: -1.67 | Games: 33 | Minutes: 334.3 | Lineup: curryst01, greendr01, looneke01, poolejo01, wiggian01
+Adjusted Impact: -2.49 |  Per 36: -12.58 | Games: 7 | Minutes: 24.7 | Lineup: curryst01, greendr01, kuminjo01, thompkl01, wiggian01
+Adjusted Impact: -3.75 |  Per 36: -7.57 | Games: 12 | Minutes: 98.0 | Lineup: greendr01, looneke01, poolejo01, thompkl01, wiggian01
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 4.85 |  Per 36: 18.39 | Games: 12 | Minutes: 35.8 | Lineup: greendr01, paytoga02, poolejo01, porteot01, wiggian01
+Adjusted Impact: 3.40 |  Per 36: 7.24 | Games: 21 | Minutes: 88.3 | Lineup: curryst01, greendr01, poolejo01, thompkl01, wiggian01
+Adjusted Impact: 3.23 |  Per 36: 19.32 | Games: 6 | Minutes: 20.1 | Lineup: curryst01, greendr01, kuminjo01, poolejo01, wiggian01
+
+
+Team: HOU
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 1.48 | Per 36: 2.01 | Games: 27 | Minutes: 280.6 | Lineup: gordoer01, greenja05, porteke02, tateja01, woodch01
+Adjusted Impact: -0.65 | Per 36: -1.61 | Games: 6 | Minutes: 66.8 | Lineup: gordoer01, mathega01, porteke02, tateja01, woodch01
+Adjusted Impact: -0.82 | Per 36: -2.21 | Games: 6 | Minutes: 58.7 | Lineup: greenja05, porteke02, sengual01, tateja01, woodch01
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: -3.02 |  Per 36: -6.83 | Games: 9 | Minutes: 79.1 | Lineup: brookar01, gordoer01, mathega01, tateja01, woodch01
+Adjusted Impact: -5.58 |  Per 36: -10.89 | Games: 16 | Minutes: 105.0 | Lineup: greenja05, mathega01, porteke02, tateja01, woodch01
+Adjusted Impact: -6.15 |  Per 36: -9.92 | Games: 13 | Minutes: 162.9 | Lineup: greenja05, porteke02, tateja01, theisda01, woodch01
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 1.95 |  Per 36: 11.40 | Games: 5 | Minutes: 20.7 | Lineup: brookar01, martike04, mathega01, porteke02, woodch01
+Adjusted Impact: 1.33 |  Per 36: 6.48 | Games: 7 | Minutes: 25.9 | Lineup: augusdj01, chrisjo01, martike04, mathega01, sengual01
+Adjusted Impact: 1.10 |  Per 36: 8.94 | Games: 5 | Minutes: 14.1 | Lineup: gordoer01, greenja05, martike04, porteke02, woodch01
+
+
+Team: IND
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 3.77 | Per 36: 12.45 | Games: 4 | Minutes: 43.5 | Lineup: duartch01, leverca01, mccontj01, sabondo01, turnemy01
+Adjusted Impact: 3.72 | Per 36: 8.35 | Games: 10 | Minutes: 80.3 | Lineup: brogdma01, holidju01, leverca01, sabondo01, turnemy01
+Adjusted Impact: 2.72 | Per 36: 4.79 | Games: 12 | Minutes: 130.8 | Lineup: brogdma01, duartch01, leverca01, sabondo01, turnemy01
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: -0.08 |  Per 36: -0.19 | Games: 5 | Minutes: 67.1 | Lineup: holidju01, sabondo01, sykeske01, turnemy01, washidu02
+Adjusted Impact: -2.03 |  Per 36: -4.44 | Games: 10 | Minutes: 83.8 | Lineup: brogdma01, duartch01, holidju01, sabondo01, turnemy01
+Adjusted Impact: -2.33 |  Per 36: -5.38 | Games: 7 | Minutes: 76.2 | Lineup: brissos01, brogdma01, halibty01, hieldbu01, jacksis01
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 3.12 |  Per 36: 20.41 | Games: 5 | Minutes: 18.0 | Lineup: halibty01, hieldbu01, jacksis01, smithja04, washidu02
+Adjusted Impact: 2.99 |  Per 36: 11.43 | Games: 6 | Minutes: 35.4 | Lineup: brissos01, halibty01, hieldbu01, jacksis01, taylote01
+Adjusted Impact: 2.40 |  Per 36: 7.65 | Games: 8 | Minutes: 45.7 | Lineup: duartch01, holidju01, leverca01, sabondo01, turnemy01
+
+
+Team: LAC
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 1.01 | Per 36: 1.99 | Games: 7 | Minutes: 103.1 | Lineup: batumni01, georgpa01, jacksre01, morrima03, zubaciv01
+Adjusted Impact: 0.98 | Per 36: 3.42 | Games: 5 | Minutes: 40.0 | Lineup: bledser01, coffeam01, georgpa01, jacksre01, zubaciv01
+Adjusted Impact: 0.31 | Per 36: 0.89 | Games: 5 | Minutes: 52.6 | Lineup: bledser01, georgpa01, jacksre01, morrima03, zubaciv01
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: -4.96 |  Per 36: -7.94 | Games: 13 | Minutes: 166.8 | Lineup: batumni01, bledser01, georgpa01, jacksre01, zubaciv01
+Adjusted Impact: -5.87 |  Per 36: -18.60 | Games: 8 | Minutes: 46.1 | Lineup: batumni01, coffeam01, jacksre01, mannte01, zubaciv01
+Adjusted Impact: -5.99 |  Per 36: -8.90 | Games: 18 | Minutes: 205.9 | Lineup: batumni01, coffeam01, jacksre01, morrima03, zubaciv01
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 4.42 |  Per 36: 18.74 | Games: 6 | Minutes: 30.9 | Lineup: coffeam01, covinro01, kennalu01, mannte01, zubaciv01
+Adjusted Impact: 2.91 |  Per 36: 10.76 | Games: 7 | Minutes: 37.0 | Lineup: coffeam01, covinro01, harteis01, jacksre01, kennalu01
+Adjusted Impact: 2.08 |  Per 36: 11.26 | Games: 6 | Minutes: 22.7 | Lineup: batumni01, bledser01, georgpa01, mannte01, zubaciv01
+
+
+Team: LAL
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 2.75 | Per 36: 6.62 | Games: 10 | Minutes: 71.2 | Lineup: jamesle01, johnsst04, monkma01, reaveau01, westbru01
+Adjusted Impact: 0.09 | Per 36: 0.20 | Games: 12 | Minutes: 87.8 | Lineup: bradlav01, jamesle01, johnsst04, monkma01, westbru01
+Adjusted Impact: -0.82 | Per 36: -2.60 | Games: 8 | Minutes: 45.7 | Lineup: anthoca01, bradlav01, davisan02, hortota01, westbru01
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: -4.16 |  Per 36: -14.24 | Games: 5 | Minutes: 41.2 | Lineup: bradlav01, davisan02, hortota01, jamesle01, westbru01
+Adjusted Impact: -5.24 |  Per 36: -14.64 | Games: 8 | Minutes: 55.7 | Lineup: bradlav01, davisan02, johnsst04, monkma01, westbru01
+Adjusted Impact: -5.51 |  Per 36: -17.18 | Games: 4 | Minutes: 47.2 | Lineup: bazemke01, davisan02, jamesle01, jordade01, westbru01
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 2.03 |  Per 36: 10.06 | Games: 9 | Minutes: 25.3 | Lineup: anthoca01, bradlav01, jamesle01, monkma01, westbru01
+Adjusted Impact: 1.62 |  Per 36: 9.26 | Games: 6 | Minutes: 21.3 | Lineup: anthoca01, ellinwa01, hortota01, jamesle01, westbru01
+Adjusted Impact: 1.16 |  Per 36: 10.55 | Games: 5 | Minutes: 12.4 | Lineup: anthoca01, jamesle01, johnsst04, monkma01, westbru01
+
+
+Team: MEM
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 8.74 | Per 36: 12.50 | Games: 21 | Minutes: 232.2 | Lineup: adamsst01, banede01, brookdi01, jacksja02, jonesty01
+Adjusted Impact: 3.54 | Per 36: 11.96 | Games: 11 | Minutes: 42.0 | Lineup: adamsst01, banede01, jacksja02, jonesty01, willizi02
+Adjusted Impact: 1.10 | Per 36: 2.12 | Games: 11 | Minutes: 107.6 | Lineup: adamsst01, banede01, brookdi01, jacksja02, moranja01
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: -1.41 |  Per 36: -2.35 | Games: 21 | Minutes: 151.7 | Lineup: adamsst01, banede01, jacksja02, meltode01, moranja01
+Adjusted Impact: -2.40 |  Per 36: -6.55 | Games: 14 | Minutes: 57.6 | Lineup: adamsst01, anderky01, banede01, jacksja02, moranja01
+Adjusted Impact: -2.96 |  Per 36: -4.54 | Games: 22 | Minutes: 186.2 | Lineup: adamsst01, banede01, jacksja02, moranja01, willizi02
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 5.45 |  Per 36: 22.00 | Games: 13 | Minutes: 32.9 | Lineup: banede01, clarkbr01, jacksja02, jonesty01, meltode01
+Adjusted Impact: 4.91 |  Per 36: 9.96 | Games: 23 | Minutes: 97.4 | Lineup: adamsst01, anderky01, meltode01, moranja01, willizi02
+Adjusted Impact: 2.90 |  Per 36: 12.03 | Games: 9 | Minutes: 31.8 | Lineup: banede01, brookdi01, clarkbr01, jacksja02, moranja01
+
+
+Team: MIA
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 6.08 | Per 36: 9.75 | Games: 19 | Minutes: 165.9 | Lineup: adebaba01, butleji01, lowryky01, strusma01, tuckepj01
+Adjusted Impact: 4.70 | Per 36: 8.26 | Games: 18 | Minutes: 131.8 | Lineup: adebaba01, butleji01, strusma01, tuckepj01, vincega01
+Adjusted Impact: 1.79 | Per 36: 4.69 | Games: 10 | Minutes: 61.6 | Lineup: dedmode01, lowryky01, robindu01, tuckepj01, vincega01
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: -0.85 |  Per 36: -1.86 | Games: 21 | Minutes: 83.7 | Lineup: dedmode01, herroty01, lowryky01, robindu01, tuckepj01
+Adjusted Impact: -1.39 |  Per 36: -4.06 | Games: 4 | Minutes: 52.0 | Lineup: butleji01, herroty01, lowryky01, martica02, yurtsom01
+Adjusted Impact: -3.31 |  Per 36: -5.33 | Games: 20 | Minutes: 163.6 | Lineup: adebaba01, butleji01, robindu01, tuckepj01, vincega01
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 3.90 |  Per 36: 8.54 | Games: 18 | Minutes: 84.0 | Lineup: dedmode01, herroty01, martica02, strusma01, vincega01
+Adjusted Impact: 3.04 |  Per 36: 8.71 | Games: 10 | Minutes: 53.5 | Lineup: adebaba01, herroty01, lowryky01, robindu01, tuckepj01
+Adjusted Impact: 2.97 |  Per 36: 6.00 | Games: 28 | Minutes: 97.7 | Lineup: adebaba01, butleji01, herroty01, robindu01, tuckepj01
+
+
+Team: MIL
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 3.87 | Per 36: 10.38 | Games: 16 | Minutes: 59.5 | Lineup: allengr01, antetgi01, hillge01, middlkh01, portibo01
+Adjusted Impact: 3.87 | Per 36: 5.02 | Games: 37 | Minutes: 336.2 | Lineup: allengr01, antetgi01, holidjr01, middlkh01, portibo01
+Adjusted Impact: 3.33 | Per 36: 15.29 | Games: 3 | Minutes: 27.9 | Lineup: allengr01, antetgi01, antetth01, connapa01, hillge01
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: 1.10 |  Per 36: 3.62 | Games: 14 | Minutes: 43.9 | Lineup: allengr01, antetgi01, hillge01, holidjr01, portibo01
+Adjusted Impact: 0.72 |  Per 36: 2.12 | Games: 6 | Minutes: 51.6 | Lineup: antetgi01, holidjr01, lopezbr01, matthwe02, portibo01
+Adjusted Impact: -0.60 |  Per 36: -1.57 | Games: 10 | Minutes: 62.3 | Lineup: allengr01, antetgi01, holidjr01, lopezbr01, matthwe02
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 5.14 |  Per 36: 16.71 | Games: 9 | Minutes: 44.4 | Lineup: antetgi01, holidjr01, matthwe02, middlkh01, portibo01
+Adjusted Impact: 4.36 |  Per 36: 14.35 | Games: 16 | Minutes: 43.6 | Lineup: allengr01, antetgi01, connapa01, hillge01, holidjr01
+Adjusted Impact: 2.04 |  Per 36: 9.98 | Games: 5 | Minutes: 25.7 | Lineup: antetgi01, holidjr01, middlkh01, nworajo01, portibo01
+
+
+Team: MIN
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 2.32 | Per 36: 2.79 | Games: 42 | Minutes: 503.3 | Lineup: beverpa01, edwaran01, russeda01, townska01, vandeja01
+Adjusted Impact: 2.31 | Per 36: 4.86 | Games: 20 | Minutes: 90.8 | Lineup: beverpa01, edwaran01, mcdanja02, russeda01, townska01
+Adjusted Impact: 1.93 | Per 36: 6.23 | Games: 6 | Minutes: 44.8 | Lineup: edwaran01, mcdanja02, okogijo01, russeda01, townska01
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: 1.93 |  Per 36: 6.23 | Games: 6 | Minutes: 44.8 | Lineup: edwaran01, mcdanja02, okogijo01, russeda01, townska01
+Adjusted Impact: -0.44 |  Per 36: -1.13 | Games: 15 | Minutes: 63.2 | Lineup: beaslma01, beverpa01, edwaran01, reidna01, vandeja01
+Adjusted Impact: -2.11 |  Per 36: -3.51 | Games: 19 | Minutes: 151.2 | Lineup: edwaran01, mcdanja02, russeda01, townska01, vandeja01
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 5.02 |  Per 36: 10.82 | Games: 28 | Minutes: 86.6 | Lineup: beaslma01, edwaran01, mcdanja02, russeda01, townska01
+Adjusted Impact: 4.95 |  Per 36: 24.08 | Games: 9 | Minutes: 25.9 | Lineup: beaslma01, mclaujo01, nowelja01, princta02, reidna01
+Adjusted Impact: 3.02 |  Per 36: 21.18 | Games: 11 | Minutes: 16.6 | Lineup: beaslma01, mclaujo01, nowelja01, princta02, townska01
+
+
+Team: NOP
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 4.89 | Per 36: 6.43 | Games: 22 | Minutes: 319.6 | Lineup: grahade01, hartjo01, ingrabr01, joneshe01, valanjo01
+Adjusted Impact: 4.81 | Per 36: 10.52 | Games: 8 | Minutes: 84.1 | Lineup: grahade01, hayesja02, joneshe01, mccolcj01, valanjo01
+Adjusted Impact: 0.00 | Per 36: 0.00 | Games: 16 | Minutes: 92.6 | Lineup: alexani01, grahade01, ingrabr01, joneshe01, valanjo01
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: -1.75 |  Per 36: -3.14 | Games: 21 | Minutes: 126.7 | Lineup: alexani01, grahade01, hartjo01, templga01, valanjo01
+Adjusted Impact: -2.04 |  Per 36: -2.99 | Games: 19 | Minutes: 214.0 | Lineup: hayesja02, ingrabr01, joneshe01, mccolcj01, valanjo01
+Adjusted Impact: -4.64 |  Per 36: -13.84 | Games: 12 | Minutes: 50.4 | Lineup: grahade01, ingrabr01, joneshe01, mccolcj01, valanjo01
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 3.01 |  Per 36: 12.75 | Games: 6 | Minutes: 30.9 | Lineup: ingrabr01, joneshe01, mccolcj01, snellto01, valanjo01
+Adjusted Impact: 2.81 |  Per 36: 7.52 | Games: 14 | Minutes: 59.7 | Lineup: alexani01, grahade01, hartjo01, joneshe01, valanjo01
+Adjusted Impact: 2.21 |  Per 36: 20.47 | Games: 7 | Minutes: 12.1 | Lineup: alexani01, alvarjo01, hayesja02, ingrabr01, joneshe01
+
+
+Team: NYK
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 2.69 | Per 36: 7.68 | Games: 11 | Minutes: 54.0 | Lineup: barrerj01, burksal01, fournev01, robinmi01, toppiob01
+Adjusted Impact: 1.84 | Per 36: 4.23 | Games: 11 | Minutes: 77.2 | Lineup: barrerj01, fournev01, noelne01, randlju01, walkeke02
+Adjusted Impact: 1.03 | Per 36: 1.29 | Games: 33 | Minutes: 383.1 | Lineup: barrerj01, burksal01, fournev01, randlju01, robinmi01
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: 0.13 |  Per 36: 0.36 | Games: 7 | Minutes: 56.1 | Lineup: barrerj01, burksal01, fournev01, simsje01, toppiob01
+Adjusted Impact: -2.27 |  Per 36: -7.30 | Games: 6 | Minutes: 45.1 | Lineup: fournev01, grimequ01, randlju01, robinmi01, walkeke02
+Adjusted Impact: -6.05 |  Per 36: -7.60 | Games: 24 | Minutes: 391.0 | Lineup: barrerj01, fournev01, randlju01, robinmi01, walkeke02
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 5.00 |  Per 36: 19.53 | Games: 6 | Minutes: 34.4 | Lineup: burksal01, fournev01, quickim01, simsje01, toppiob01
+Adjusted Impact: 3.72 |  Per 36: 9.84 | Games: 10 | Minutes: 60.8 | Lineup: burksal01, gibsota01, quickim01, rosede01, toppiob01
+Adjusted Impact: 2.97 |  Per 36: 16.06 | Games: 7 | Minutes: 22.6 | Lineup: barrerj01, mcbrimi01, quickim01, simsje01, toppiob01
+
+
+Team: OKC
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 0.41 | Per 36: 1.51 | Games: 4 | Minutes: 38.0 | Lineup: krejcvi01, maledth01, pokusal01, robyis01, wiggiaa01
+Adjusted Impact: 0.37 | Per 36: 1.57 | Games: 4 | Minutes: 30.9 | Lineup: hoardja01, kalaige01, krejcvi01, robyis01, simpsza01
+Adjusted Impact: -0.91 | Per 36: -2.75 | Games: 6 | Minutes: 49.2 | Lineup: dortlu01, favorde01, giddejo01, gilgesh01, robinje02
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: -4.72 |  Per 36: -16.31 | Games: 3 | Minutes: 40.7 | Lineup: bazleda01, dortlu01, favorde01, giddejo01, manntr01
+Adjusted Impact: -6.99 |  Per 36: -19.18 | Games: 6 | Minutes: 57.3 | Lineup: bazleda01, gilgesh01, manntr01, robyis01, wiggiaa01
+Adjusted Impact: -7.16 |  Per 36: -10.42 | Games: 26 | Minutes: 219.7 | Lineup: bazleda01, dortlu01, giddejo01, gilgesh01, robinje02
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 4.86 |  Per 36: 20.21 | Games: 8 | Minutes: 31.6 | Lineup: krejcvi01, maledth01, pokusal01, sarrol01, waterli01
+Adjusted Impact: 3.00 |  Per 36: 11.13 | Games: 5 | Minutes: 36.9 | Lineup: bazleda01, gilgesh01, manntr01, pokusal01, robyis01
+Adjusted Impact: 1.72 |  Per 36: 12.14 | Games: 6 | Minutes: 16.6 | Lineup: bazleda01, gilgesh01, manntr01, pokusal01, sarrol01
+
+
+Team: ORL
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 1.99 | Per 36: 3.36 | Games: 24 | Minutes: 145.2 | Lineup: anthoco01, bambamo01, cartewe01, harriga01, wagnefr01
+Adjusted Impact: 0.58 | Per 36: 1.25 | Games: 12 | Minutes: 86.0 | Lineup: anthoco01, bambamo01, cartewe01, hamptrj01, wagnefr01
+Adjusted Impact: 0.33 | Per 36: 0.83 | Games: 6 | Minutes: 67.9 | Lineup: anthoco01, bambamo01, hamptrj01, okekech01, wagnefr01
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: -0.08 |  Per 36: -0.24 | Games: 7 | Minutes: 52.5 | Lineup: anthoco01, harriga01, lopezro01, okekech01, wagnefr01
+Adjusted Impact: -0.25 |  Per 36: -0.64 | Games: 9 | Minutes: 64.8 | Lineup: bambamo01, cartewe01, harriga01, suggsja01, wagnefr01
+Adjusted Impact: -5.47 |  Per 36: -6.88 | Games: 34 | Minutes: 390.3 | Lineup: anthoco01, bambamo01, cartewe01, suggsja01, wagnefr01
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 2.93 |  Per 36: 11.53 | Games: 14 | Minutes: 34.1 | Lineup: anthoco01, harriga01, okekech01, rosste01, wagnemo01
+Adjusted Impact: 1.52 |  Per 36: 10.38 | Games: 5 | Minutes: 17.2 | Lineup: anthoco01, bambamo01, rosste01, suggsja01, wagnefr01
+Adjusted Impact: 1.52 |  Per 36: 8.29 | Games: 12 | Minutes: 22.4 | Lineup: anthoco01, cartewe01, harriga01, rosste01, wagnefr01
+
+
+Team: PHI
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 2.39 | Per 36: 3.48 | Games: 22 | Minutes: 219.4 | Lineup: embiijo01, greenda02, hardeja01, harrito02, maxeyty01
+Adjusted Impact: 0.94 | Per 36: 1.23 | Games: 27 | Minutes: 317.6 | Lineup: embiijo01, hardeja01, harrito02, maxeyty01, thybuma01
+Adjusted Impact: 0.70 | Per 36: 1.03 | Games: 17 | Minutes: 208.9 | Lineup: curryse01, embiijo01, greenda02, harrito02, maxeyty01
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: 0.58 |  Per 36: 1.41 | Games: 14 | Minutes: 70.7 | Lineup: embiijo01, harrito02, korkmfu01, maxeyty01, thybuma01
+Adjusted Impact: -0.81 |  Per 36: -1.95 | Games: 15 | Minutes: 70.4 | Lineup: embiijo01, greenda02, harrito02, maxeyty01, thybuma01
+Adjusted Impact: -4.71 |  Per 36: -6.71 | Games: 21 | Minutes: 236.5 | Lineup: curryse01, embiijo01, harrito02, maxeyty01, thybuma01
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 4.03 |  Per 36: 18.67 | Games: 11 | Minutes: 27.6 | Lineup: embiijo01, greenda02, harrito02, maxeyty01, niangge01
+Adjusted Impact: 3.57 |  Per 36: 9.82 | Games: 10 | Minutes: 57.1 | Lineup: drumman01, korkmfu01, miltosh01, niangge01, thybuma01
+Adjusted Impact: 3.34 |  Per 36: 20.13 | Games: 5 | Minutes: 19.9 | Lineup: drumman01, maxeyty01, miltosh01, niangge01, thybuma01
+
+
+Team: PHO
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 9.78 | Per 36: 21.10 | Games: 19 | Minutes: 86.4 | Lineup: aytonde01, bridgmi01, crowdja01, johnsca02, paulch01
+Adjusted Impact: 6.03 | Per 36: 10.70 | Games: 21 | Minutes: 128.9 | Lineup: aytonde01, bridgmi01, crowdja01, paulch01, shamela01
+Adjusted Impact: 3.56 | Per 36: 3.98 | Games: 48 | Minutes: 834.6 | Lineup: aytonde01, bookede01, bridgmi01, crowdja01, paulch01
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: -0.62 |  Per 36: -1.50 | Games: 12 | Minutes: 70.7 | Lineup: aytonde01, bridgmi01, crowdja01, payneca01, shamela01
+Adjusted Impact: -1.25 |  Per 36: -2.92 | Games: 8 | Minutes: 74.6 | Lineup: bookede01, bridgmi01, johnsca02, paulch01, smithja04
+Adjusted Impact: -1.74 |  Per 36: -4.02 | Games: 15 | Minutes: 76.1 | Lineup: biyombi01, bookede01, bridgmi01, johnsca02, paulch01
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 6.02 |  Per 36: 18.44 | Games: 6 | Minutes: 48.5 | Lineup: aytonde01, bookede01, bridgmi01, craigto01, payneca01
+Adjusted Impact: 3.75 |  Per 36: 10.34 | Games: 6 | Minutes: 56.9 | Lineup: bookede01, bridgmi01, crowdja01, kaminfr01, paulch01
+Adjusted Impact: 3.75 |  Per 36: 10.79 | Games: 36 | Minutes: 53.2 | Lineup: aytonde01, bookede01, bridgmi01, johnsca02, paulch01
+
+
+Team: POR
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 8.88 | Per 36: 21.35 | Games: 6 | Minutes: 71.2 | Lineup: covinro01, littlna01, mclembe01, nurkiju01, simonan01
+Adjusted Impact: 3.02 | Per 36: 4.26 | Games: 17 | Minutes: 243.1 | Lineup: covinro01, lillada01, mccolcj01, nurkiju01, powelno01
+Adjusted Impact: 2.35 | Per 36: 6.47 | Games: 7 | Minutes: 57.2 | Lineup: covinro01, littlna01, mccolcj01, nurkiju01, simonan01
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: -2.39 |  Per 36: -6.89 | Games: 7 | Minutes: 53.0 | Lineup: lillada01, littlna01, nancela02, nurkiju01, powelno01
+Adjusted Impact: -2.93 |  Per 36: -5.76 | Games: 10 | Minutes: 103.9 | Lineup: covinro01, mccolcj01, nurkiju01, powelno01, simonan01
+Adjusted Impact: -5.37 |  Per 36: -21.18 | Games: 4 | Minutes: 34.0 | Lineup: lillada01, littlna01, nancela02, powelno01, snellto01
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 2.87 |  Per 36: 9.35 | Games: 17 | Minutes: 44.2 | Lineup: covinro01, lillada01, nurkiju01, powelno01, simonan01
+Adjusted Impact: 2.85 |  Per 36: 10.40 | Games: 17 | Minutes: 37.7 | Lineup: lillada01, littlna01, nancela02, simonan01, zelleco01
+Adjusted Impact: 2.30 |  Per 36: 20.90 | Games: 5 | Minutes: 12.4 | Lineup: covinro01, lillada01, mccolcj01, nurkiju01, simonan01
+
+
+Team: SAC
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 4.63 | Per 36: 12.15 | Games: 11 | Minutes: 61.5 | Lineup: barneha02, halibty01, harklma01, holmeri01, mitchda01
+Adjusted Impact: 4.27 | Per 36: 9.37 | Games: 8 | Minutes: 83.5 | Lineup: barneha02, foxde01, holidju01, lylestr01, sabondo01
+Adjusted Impact: 1.66 | Per 36: 6.34 | Games: 3 | Minutes: 35.4 | Lineup: daviste02, foxde01, halibty01, holmeri01, metuch01
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: -3.95 |  Per 36: -11.05 | Games: 8 | Minutes: 55.6 | Lineup: baglema01, barneha02, foxde01, halibty01, lenal01
+Adjusted Impact: -4.68 |  Per 36: -13.08 | Games: 8 | Minutes: 55.7 | Lineup: baglema01, barneha02, foxde01, halibty01, jonesda03
+Adjusted Impact: -10.99 |  Per 36: -20.19 | Games: 11 | Minutes: 119.4 | Lineup: barneha02, holidju01, jonesda03, lylestr01, mitchda01
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 2.79 |  Per 36: 21.73 | Games: 5 | Minutes: 14.7 | Lineup: halibty01, hieldbu01, holmeri01, metuch01, mitchda01
+Adjusted Impact: 2.21 |  Per 36: 13.39 | Games: 6 | Minutes: 19.7 | Lineup: halibty01, harklma01, hieldbu01, jonesda03, metuch01
+Adjusted Impact: 1.60 |  Per 36: 10.07 | Games: 10 | Minutes: 18.8 | Lineup: barneha02, divindo01, jonesda03, lylestr01, mitchda01
+
+
+Team: SAS
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 3.51 | Per 36: 12.91 | Games: 5 | Minutes: 37.3 | Lineup: bateske01, johnske04, murrade01, poeltja01, whitede01
+Adjusted Impact: 2.09 | Per 36: 4.58 | Games: 14 | Minutes: 83.9 | Lineup: johnske04, murrade01, poeltja01, primojo01, vassede01
+Adjusted Impact: 1.05 | Per 36: 1.40 | Games: 25 | Minutes: 302.4 | Lineup: johnske04, mcderdo01, murrade01, poeltja01, whitede01
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: -1.65 |  Per 36: -4.39 | Games: 16 | Minutes: 60.0 | Lineup: johnske04, murrade01, poeltja01, walkelo01, whitede01
+Adjusted Impact: -2.74 |  Per 36: -4.56 | Games: 19 | Minutes: 151.4 | Lineup: johnske04, mcderdo01, murrade01, poeltja01, vassede01
+Adjusted Impact: -3.82 |  Per 36: -7.69 | Games: 13 | Minutes: 99.0 | Lineup: eubandr01, johnske04, mcderdo01, murrade01, whitede01
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 5.33 |  Per 36: 24.56 | Games: 7 | Minutes: 27.7 | Lineup: johnske04, murrade01, vassede01, walkelo01, youngth01
+Adjusted Impact: 2.38 |  Per 36: 12.64 | Games: 7 | Minutes: 23.2 | Lineup: forbebr01, johnske04, poeltja01, vassede01, whitede01
+Adjusted Impact: 1.69 |  Per 36: 17.66 | Games: 6 | Minutes: 10.6 | Lineup: johnske04, poeltja01, vassede01, walkelo01, whitede01
+
+
+Team: TOR
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 3.74 | Per 36: 6.54 | Games: 20 | Minutes: 133.7 | Lineup: achiupr01, barnesc01, siakapa01, trentga02, vanvlfr01
+Adjusted Impact: 2.67 | Per 36: 6.91 | Games: 12 | Minutes: 63.0 | Lineup: barnesc01, bouchch01, siakapa01, trentga02, vanvlfr01
+Adjusted Impact: 2.02 | Per 36: 3.45 | Games: 18 | Minutes: 140.8 | Lineup: achiupr01, anunoog01, barnesc01, trentga02, vanvlfr01
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: -2.25 |  Per 36: -7.33 | Games: 9 | Minutes: 44.4 | Lineup: anunoog01, barnesc01, birchkh01, siakapa01, vanvlfr01
+Adjusted Impact: -2.83 |  Per 36: -7.12 | Games: 13 | Minutes: 66.1 | Lineup: anunoog01, birchkh01, siakapa01, trentga02, vanvlfr01
+Adjusted Impact: -3.16 |  Per 36: -5.00 | Games: 20 | Minutes: 170.8 | Lineup: barnesc01, birchkh01, siakapa01, trentga02, vanvlfr01
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 4.09 |  Per 36: 23.49 | Games: 5 | Minutes: 21.1 | Lineup: anunoog01, bantoda01, barnesc01, bouchch01, siakapa01
+Adjusted Impact: 3.31 |  Per 36: 17.66 | Games: 11 | Minutes: 23.1 | Lineup: achiupr01, bouchch01, siakapa01, trentga02, youngth01
+Adjusted Impact: 2.51 |  Per 36: 16.35 | Games: 5 | Minutes: 18.1 | Lineup: barnesc01, birchkh01, bouchch01, siakapa01, vanvlfr01
+
+
+Team: UTA
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 1.76 | Per 36: 5.93 | Games: 4 | Minutes: 42.2 | Lineup: conlemi01, goberru01, hernaju01, mitchdo01, onealro01
+Adjusted Impact: 1.26 | Per 36: 1.50 | Games: 46 | Minutes: 534.0 | Lineup: bogdabo02, conlemi01, goberru01, mitchdo01, onealro01
+Adjusted Impact: 0.53 | Per 36: 1.47 | Games: 32 | Minutes: 56.4 | Lineup: bogdabo02, goberru01, inglejo01, mitchdo01, onealro01
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: 0.26 |  Per 36: 1.32 | Games: 3 | Minutes: 24.2 | Lineup: bogdabo02, conlemi01, inglejo01, onealro01, whiteha01
+Adjusted Impact: -0.66 |  Per 36: -2.08 | Games: 5 | Minutes: 46.7 | Lineup: azubuud01, bogdabo02, conlemi01, mitchdo01, onealro01
+Adjusted Impact: -1.47 |  Per 36: -3.55 | Games: 7 | Minutes: 70.6 | Lineup: bogdabo02, conlemi01, goberru01, inglejo01, onealro01
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 5.32 |  Per 36: 9.35 | Games: 25 | Minutes: 132.3 | Lineup: clarkjo01, conlemi01, gayru01, goberru01, inglejo01
+Adjusted Impact: 3.74 |  Per 36: 17.45 | Games: 8 | Minutes: 27.3 | Lineup: bogdabo02, conlemi01, goberru01, inglejo01, mitchdo01
+Adjusted Impact: 1.70 |  Per 36: 5.19 | Games: 11 | Minutes: 48.7 | Lineup: bogdabo02, forretr01, mitchdo01, onealro01, whiteha01
+
+
+Team: WAS
+=== Best Predicted Starting Lineups ===
+Adjusted Impact: 2.50 | Per 36: 6.02 | Games: 6 | Minutes: 70.9 | Lineup: caldwke01, kispeco01, kuzmaky01, netora01, porzikr01
+Adjusted Impact: 0.54 | Per 36: 2.20 | Games: 4 | Minutes: 32.8 | Lineup: caldwke01, dinwisp01, gaffoda01, kispeco01, kuzmaky01
+Adjusted Impact: 0.46 | Per 36: 0.61 | Games: 26 | Minutes: 305.1 | Lineup: bealbr01, caldwke01, dinwisp01, gaffoda01, kuzmaky01
+=== Worst Predicted Starting Lineups ===
+Adjusted Impact: -2.73 |  Per 36: -6.48 | Games: 11 | Minutes: 72.6 | Lineup: bryanth01, caldwke01, kispeco01, kuzmaky01, netora01
+Adjusted Impact: -3.88 |  Per 36: -15.91 | Games: 4 | Minutes: 32.2 | Lineup: bryanth01, caldwke01, dinwisp01, holidaa01, kuzmaky01
+Adjusted Impact: -6.60 |  Per 36: -15.55 | Games: 12 | Minutes: 73.7 | Lineup: caldwke01, gaffoda01, kispeco01, kuzmaky01, netora01
+=== Best Predicted Non-Starting Lineups (Min 5 Games) ===
+Adjusted Impact: 2.58 |  Per 36: 6.00 | Games: 19 | Minutes: 75.5 | Lineup: bealbr01, caldwke01, dinwisp01, harremo01, kuzmaky01
+Adjusted Impact: 1.69 |  Per 36: 5.69 | Games: 17 | Minutes: 42.2 | Lineup: avdijde01, bealbr01, bertada01, harremo01, netora01
+Adjusted Impact: 1.52 |  Per 36: 7.90 | Games: 15 | Minutes: 23.7 | Lineup: avdijde01, bealbr01, gaffoda01, kuzmaky01, netora01
+
+

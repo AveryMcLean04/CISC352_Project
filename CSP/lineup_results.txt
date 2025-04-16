@@ -1,0 +1,1060 @@
+========================================
+TEAM: TOR
+========================================
+
+Top 5 Lineups by PTS:
+1. ['Pascal Siakam', 'Fred VanVleet', 'Gary Trent Jr.', 'OG Anunoby', 'Scottie Barnes'] - 93.80
+2. ['Pascal Siakam', 'Fred VanVleet', 'Gary Trent Jr.', 'OG Anunoby', 'Chris Boucher'] - 87.90
+3. ['Pascal Siakam', 'Fred VanVleet', 'Gary Trent Jr.', 'OG Anunoby', 'Precious Achiuwa'] - 87.60
+4. ['Pascal Siakam', 'Fred VanVleet', 'Gary Trent Jr.', 'Scottie Barnes', 'Chris Boucher'] - 86.10
+5. ['Pascal Siakam', 'Fred VanVleet', 'Gary Trent Jr.', 'Scottie Barnes', 'Precious Achiuwa'] - 85.80
+
+Top 5 Lineups by REB:
+1. ['Pascal Siakam', 'OG Anunoby', 'Scottie Barnes', 'Chris Boucher', 'Precious Achiuwa'] - 34.20
+2. ['Pascal Siakam', 'Fred VanVleet', 'Scottie Barnes', 'Chris Boucher', 'Precious Achiuwa'] - 33.10
+3. ['Pascal Siakam', 'Scottie Barnes', 'Chris Boucher', 'Precious Achiuwa', 'Thaddeus Young'] - 33.10
+4. ['Pascal Siakam', 'Scottie Barnes', 'Chris Boucher', 'Precious Achiuwa', 'Khem Birch'] - 33.00
+5. ['Pascal Siakam', 'Fred VanVleet', 'OG Anunoby', 'Scottie Barnes', 'Precious Achiuwa'] - 32.40
+
+Top 5 Lineups by AST:
+1. ['Pascal Siakam', 'Fred VanVleet', 'Gary Trent Jr.', 'OG Anunoby', 'Scottie Barnes'] - 20.10
+2. ['Pascal Siakam', 'Fred VanVleet', 'OG Anunoby', 'Scottie Barnes', 'Thaddeus Young'] - 19.80
+3. ['Pascal Siakam', 'Fred VanVleet', 'OG Anunoby', 'Scottie Barnes', 'Malachi Flynn'] - 19.70
+4. ['Pascal Siakam', 'Fred VanVleet', 'OG Anunoby', 'Scottie Barnes', 'Precious Achiuwa'] - 19.20
+5. ['Pascal Siakam', 'Fred VanVleet', 'Gary Trent Jr.', 'Scottie Barnes', 'Thaddeus Young'] - 19.20
+
+Top 5 Lineups by DEF:
+1. ['Pascal Siakam', 'Fred VanVleet', 'Gary Trent Jr.', 'OG Anunoby', 'Scottie Barnes'] - 9.90
+2. ['Pascal Siakam', 'Fred VanVleet', 'Gary Trent Jr.', 'OG Anunoby', 'Thaddeus Young'] - 9.70
+3. ['Pascal Siakam', 'Fred VanVleet', 'Gary Trent Jr.', 'OG Anunoby', 'Chris Boucher'] - 9.60
+4. ['Fred VanVleet', 'Gary Trent Jr.', 'OG Anunoby', 'Scottie Barnes', 'Thaddeus Young'] - 9.60
+5. ['Fred VanVleet', 'Gary Trent Jr.', 'OG Anunoby', 'Scottie Barnes', 'Chris Boucher'] - 9.50
+
+Total Feasible Lineups Found: 532
+
+========================================
+TEAM: MEM
+========================================
+
+Top 5 Lineups by PTS:
+1. ['Ja Morant', 'Dillon Brooks', 'Desmond Bane', 'Jaren Jackson Jr.', "De'Anthony Melton"] - 91.10
+2. ['Ja Morant', 'Dillon Brooks', 'Desmond Bane', 'Jaren Jackson Jr.', 'Brandon Clarke'] - 90.70
+3. ['Ja Morant', 'Dillon Brooks', 'Desmond Bane', 'Jaren Jackson Jr.', 'Kyle Anderson'] - 87.90
+4. ['Ja Morant', 'Dillon Brooks', 'Desmond Bane', 'Jaren Jackson Jr.', 'Steven Adams'] - 87.20
+5. ['Ja Morant', 'Dillon Brooks', 'Desmond Bane', "De'Anthony Melton", 'Brandon Clarke'] - 85.20
+
+Top 5 Lineups by REB:
+1. ['Ja Morant', 'Jaren Jackson Jr.', 'Kyle Anderson', 'Steven Adams', 'John Konchar'] - 31.40
+2. ['Ja Morant', 'Jaren Jackson Jr.', 'Brandon Clarke', 'Steven Adams', 'John Konchar'] - 31.40
+3. ['Ja Morant', 'Jaren Jackson Jr.', "De'Anthony Melton", 'Brandon Clarke', 'Steven Adams'] - 31.30
+4. ['Ja Morant', 'Jaren Jackson Jr.', "De'Anthony Melton", 'Kyle Anderson', 'Steven Adams'] - 31.30
+5. ['Ja Morant', 'Desmond Bane', 'Jaren Jackson Jr.', 'Kyle Anderson', 'Steven Adams'] - 31.20
+
+Top 5 Lineups by AST:
+1. ['Ja Morant', 'Dillon Brooks', "De'Anthony Melton", 'Tyus Jones', 'Steven Adams'] - 20.00
+2. ['Ja Morant', 'Dillon Brooks', 'Tyus Jones', 'Kyle Anderson', 'Steven Adams'] - 20.00
+3. ['Ja Morant', 'Desmond Bane', 'Tyus Jones', 'Kyle Anderson', 'Steven Adams'] - 19.90
+4. ['Ja Morant', 'Desmond Bane', "De'Anthony Melton", 'Tyus Jones', 'Steven Adams'] - 19.90
+5. ['Ja Morant', "De'Anthony Melton", 'Tyus Jones', 'Kyle Anderson', 'Steven Adams'] - 19.90
+
+Top 5 Lineups by DEF:
+1. ['Ja Morant', 'Jaren Jackson Jr.', "De'Anthony Melton", 'Brandon Clarke', 'Kyle Anderson'] - 10.20
+2. ['Ja Morant', 'Jaren Jackson Jr.', "De'Anthony Melton", 'Kyle Anderson', 'Steven Adams'] - 10.20
+3. ['Desmond Bane', 'Jaren Jackson Jr.', "De'Anthony Melton", 'Kyle Anderson', 'Steven Adams'] - 10.20
+4. ['Desmond Bane', 'Jaren Jackson Jr.', "De'Anthony Melton", 'Brandon Clarke', 'Kyle Anderson'] - 10.20
+5. ['Ja Morant', 'Jaren Jackson Jr.', "De'Anthony Melton", 'Brandon Clarke', 'Steven Adams'] - 10.10
+
+Total Feasible Lineups Found: 560
+
+========================================
+TEAM: MIA
+========================================
+
+Top 5 Lineups by PTS:
+1. ['Jimmy Butler', 'Tyler Herro', 'Bam Adebayo', 'Kyle Lowry', 'Dewayne Dedmon'] - 80.90
+2. ['Jimmy Butler', 'Tyler Herro', 'Bam Adebayo', 'Kyle Lowry', 'Omer Yurtseven'] - 79.90
+3. ['Jimmy Butler', 'Tyler Herro', 'Bam Adebayo', 'Duncan Robinson', 'Dewayne Dedmon'] - 78.40
+4. ['Jimmy Butler', 'Tyler Herro', 'Bam Adebayo', 'Max Strus', 'Dewayne Dedmon'] - 78.10
+5. ['Jimmy Butler', 'Tyler Herro', 'Bam Adebayo', 'Caleb Martin', 'P.J. Tucker'] - 78.00
+
+Top 5 Lineups by REB:
+1. ['Jimmy Butler', 'Bam Adebayo', 'P.J. Tucker', 'Dewayne Dedmon', 'Omer Yurtseven'] - 32.60
+2. ['Jimmy Butler', 'Tyler Herro', 'Bam Adebayo', 'P.J. Tucker', 'Dewayne Dedmon'] - 32.30
+3. ['Jimmy Butler', 'Tyler Herro', 'Bam Adebayo', 'Dewayne Dedmon', 'Omer Yurtseven'] - 32.10
+4. ['Jimmy Butler', 'Bam Adebayo', 'Kyle Lowry', 'P.J. Tucker', 'Dewayne Dedmon'] - 31.80
+5. ['Jimmy Butler', 'Tyler Herro', 'Bam Adebayo', 'P.J. Tucker', 'Omer Yurtseven'] - 31.80
+
+Top 5 Lineups by AST:
+1. ['Jimmy Butler', 'Bam Adebayo', 'Kyle Lowry', 'Gabe Vincent', 'P.J. Tucker'] - 21.60
+2. ['Jimmy Butler', 'Tyler Herro', 'Bam Adebayo', 'Kyle Lowry', 'Omer Yurtseven'] - 21.30
+3. ['Jimmy Butler', 'Tyler Herro', 'Bam Adebayo', 'Kyle Lowry', 'Dewayne Dedmon'] - 21.10
+4. ['Jimmy Butler', 'Bam Adebayo', 'Kyle Lowry', 'Caleb Martin', 'P.J. Tucker'] - 19.60
+5. ['Jimmy Butler', 'Bam Adebayo', 'Kyle Lowry', 'P.J. Tucker', 'Omer Yurtseven'] - 19.40
+
+Top 5 Lineups by DEF:
+1. ['Jimmy Butler', 'Bam Adebayo', 'Kyle Lowry', 'Caleb Martin', 'Dewayne Dedmon'] - 8.20
+2. ['Jimmy Butler', 'Bam Adebayo', 'Kyle Lowry', 'Caleb Martin', 'P.J. Tucker'] - 8.20
+3. ['Jimmy Butler', 'Bam Adebayo', 'Kyle Lowry', 'Caleb Martin', 'Omer Yurtseven'] - 7.90
+4. ['Jimmy Butler', 'Bam Adebayo', 'Caleb Martin', 'Gabe Vincent', 'Dewayne Dedmon'] - 7.90
+5. ['Jimmy Butler', 'Bam Adebayo', 'Caleb Martin', 'Gabe Vincent', 'P.J. Tucker'] - 7.90
+
+Total Feasible Lineups Found: 164
+
+========================================
+TEAM: BRK
+========================================
+
+Top 5 Lineups by PTS:
+1. ['Kevin Durant', 'Kyrie Irving', 'James Harden', 'Seth Curry', 'LaMarcus Aldridge'] - 107.60
+2. ['Kevin Durant', 'Kyrie Irving', 'James Harden', 'Seth Curry', 'Andre Drummond'] - 106.50
+3. ['Kevin Durant', 'Kyrie Irving', 'James Harden', 'Seth Curry', 'Patty Mills'] - 106.10
+4. ['Kevin Durant', 'Kyrie Irving', 'James Harden', 'Seth Curry', 'Joe Harris'] - 106.00
+5. ['Kevin Durant', 'Kyrie Irving', 'James Harden', 'LaMarcus Aldridge', 'Joe Harris'] - 104.00
+
+Top 5 Lineups by REB:
+1. ['Kevin Durant', 'James Harden', 'Andre Drummond', 'Bruce Brown', 'Nic Claxton'] - 36.10
+2. ['Kevin Durant', 'James Harden', 'LaMarcus Aldridge', 'Andre Drummond', 'Bruce Brown'] - 36.00
+3. ['Kevin Durant', 'James Harden', 'Andre Drummond', 'Joe Harris', 'Nic Claxton'] - 35.30
+4. ['Kevin Durant', 'James Harden', 'LaMarcus Aldridge', 'Andre Drummond', 'Joe Harris'] - 35.20
+5. ['Kevin Durant', 'Kyrie Irving', 'James Harden', 'Andre Drummond', 'Bruce Brown'] - 34.90
+
+Top 5 Lineups by AST:
+1. ['Kevin Durant', 'Kyrie Irving', 'James Harden', 'Seth Curry', 'Goran Dragi?'] - 29.80
+2. ['Kevin Durant', 'Kyrie Irving', 'James Harden', 'Bruce Brown', 'Goran Dragi?'] - 29.30
+3. ['Kevin Durant', 'Kyrie Irving', 'James Harden', 'Cam Thomas', 'Goran Dragi?'] - 28.40
+4. ['Kevin Durant', 'Kyrie Irving', 'James Harden', 'Joe Harris', 'Goran Dragi?'] - 28.20
+5. ['Kevin Durant', 'Kyrie Irving', 'James Harden', 'Seth Curry', 'Patty Mills'] - 27.30
+
+Top 5 Lineups by DEF:
+1. ['Kevin Durant', 'Kyrie Irving', 'James Harden', 'Andre Drummond', 'Bruce Brown'] - 9.50
+2. ['Kevin Durant', 'Kyrie Irving', 'James Harden', 'Bruce Brown', 'Nic Claxton'] - 9.20
+3. ['Kevin Durant', 'Kyrie Irving', 'Andre Drummond', 'Bruce Brown', 'Nic Claxton'] - 9.10
+4. ['Kevin Durant', 'James Harden', 'Andre Drummond', 'Bruce Brown', 'Nic Claxton'] - 9.10
+5. ['Kevin Durant', 'Kyrie Irving', 'James Harden', 'LaMarcus Aldridge', 'Bruce Brown'] - 8.90
+
+Total Feasible Lineups Found: 388
+
+========================================
+TEAM: TOT
+========================================
+
+Top 5 Lineups by PTS:
+1. ['CJ McCollum', 'James Harden', 'Kristaps Porzi??is', 'Norman Powell', 'Domantas Sabonis'] - 102.20
+2. ['CJ McCollum', 'James Harden', 'Kristaps Porzi??is', 'Norman Powell', 'Caris LeVert'] - 100.30
+3. ['CJ McCollum', 'James Harden', 'Norman Powell', 'Domantas Sabonis', 'Caris LeVert'] - 99.00
+4. ['CJ McCollum', 'James Harden', 'Kristaps Porzi??is', 'Norman Powell', 'Buddy Hield'] - 98.90
+5. ['CJ McCollum', 'James Harden', 'Kristaps Porzi??is', 'Domantas Sabonis', 'Buddy Hield'] - 98.80
+
+Top 5 Lineups by REB:
+1. ['CJ McCollum', 'James Harden', 'Kristaps Porzi??is', 'Domantas Sabonis', 'Josh Hart'] - 39.40
+2. ['CJ McCollum', 'James Harden', 'Kristaps Porzi??is', 'Domantas Sabonis', 'Buddy Hield'] - 36.60
+3. ['James Harden', 'Kristaps Porzi??is', 'Domantas Sabonis', 'Buddy Hield', 'Tyrese Haliburton'] - 36.30
+4. ['CJ McCollum', 'James Harden', 'Kristaps Porzi??is', 'Domantas Sabonis', 'Tyrese Haliburton'] - 36.20
+5. ['CJ McCollum', 'Kristaps Porzi??is', 'Domantas Sabonis', 'Tyrese Haliburton', 'Josh Hart'] - 35.70
+
+Top 5 Lineups by AST:
+1. ['CJ McCollum', 'James Harden', 'Domantas Sabonis', 'Caris LeVert', 'Tyrese Haliburton'] - 33.10
+2. ['CJ McCollum', 'James Harden', 'Domantas Sabonis', 'Tyrese Haliburton', 'Seth Curry'] - 32.40
+3. ['CJ McCollum', 'James Harden', 'Caris LeVert', 'Tyrese Haliburton', 'Josh Hart'] - 32.00
+4. ['James Harden', 'Domantas Sabonis', 'Caris LeVert', 'Tyrese Haliburton', 'Seth Curry'] - 31.60
+5. ['CJ McCollum', 'James Harden', 'Domantas Sabonis', 'Buddy Hield', 'Tyrese Haliburton'] - 31.60
+
+Top 5 Lineups by DEF:
+1. ['CJ McCollum', 'James Harden', 'Kristaps Porzi??is', 'Norman Powell', 'Tyrese Haliburton'] - 9.40
+2. ['CJ McCollum', 'James Harden', 'Kristaps Porzi??is', 'Domantas Sabonis', 'Tyrese Haliburton'] - 9.40
+3. ['CJ McCollum', 'James Harden', 'Kristaps Porzi??is', 'Caris LeVert', 'Tyrese Haliburton'] - 9.30
+4. ['CJ McCollum', 'James Harden', 'Kristaps Porzi??is', 'Tyrese Haliburton', 'Josh Hart'] - 9.30
+5. ['James Harden', 'Kristaps Porzi??is', 'Norman Powell', 'Caris LeVert', 'Tyrese Haliburton'] - 9.20
+
+Total Feasible Lineups Found: 152
+
+========================================
+TEAM: NOP
+========================================
+
+Top 5 Lineups by PTS:
+1. ['CJ McCollum', 'Brandon Ingram', 'Jonas Valan?i?nas', 'Josh Hart', 'Nickeil Alexander-Walker'] - 91.00
+2. ['CJ McCollum', 'Brandon Ingram', 'Jonas Valan?i?nas', 'Josh Hart', 'Herbert Jones'] - 87.70
+3. ['CJ McCollum', 'Brandon Ingram', 'Jonas Valan?i?nas', 'Josh Hart', 'Jaxson Hayes'] - 87.50
+4. ['CJ McCollum', 'Brandon Ingram', 'Jonas Valan?i?nas', 'Josh Hart', 'Willy Hernangómez'] - 87.30
+5. ['CJ McCollum', 'Brandon Ingram', 'Jonas Valan?i?nas', 'Nickeil Alexander-Walker', 'Jaxson Hayes'] - 86.90
+
+Top 5 Lineups by REB:
+1. ['Brandon Ingram', 'Jonas Valan?i?nas', 'Josh Hart', 'Jaxson Hayes', 'Willy Hernangómez'] - 36.30
+2. ['CJ McCollum', 'Brandon Ingram', 'Jonas Valan?i?nas', 'Josh Hart', 'Willy Hernangómez'] - 36.30
+3. ['CJ McCollum', 'Jonas Valan?i?nas', 'Josh Hart', 'Jaxson Hayes', 'Willy Hernangómez'] - 35.00
+4. ['Jonas Valan?i?nas', 'Josh Hart', 'Herbert Jones', 'Jaxson Hayes', 'Willy Hernangómez'] - 34.30
+5. ['CJ McCollum', 'Jonas Valan?i?nas', 'Josh Hart', 'Herbert Jones', 'Willy Hernangómez'] - 34.30
+
+Top 5 Lineups by AST:
+1. ['CJ McCollum', 'Brandon Ingram', 'Jonas Valan?i?nas', 'Josh Hart', 'Nickeil Alexander-Walker'] - 20.90
+2. ['CJ McCollum', 'Brandon Ingram', 'Jonas Valan?i?nas', 'Josh Hart', 'Jose Alvarado'] - 20.90
+3. ['CJ McCollum', 'Brandon Ingram', 'Jonas Valan?i?nas', 'Josh Hart', 'Herbert Jones'] - 20.20
+4. ['CJ McCollum', 'Jonas Valan?i?nas', 'Josh Hart', 'Nickeil Alexander-Walker', "Devonte' Graham"] - 19.50
+5. ['CJ McCollum', 'Jonas Valan?i?nas', 'Josh Hart', "Devonte' Graham", 'Jose Alvarado'] - 19.50
+
+Top 5 Lineups by DEF:
+1. ['Jonas Valan?i?nas', 'Josh Hart', 'Herbert Jones', 'Jaxson Hayes', 'Jose Alvarado'] - 8.00
+2. ['CJ McCollum', 'Jonas Valan?i?nas', 'Josh Hart', 'Herbert Jones', 'Jose Alvarado'] - 8.00
+3. ['CJ McCollum', 'Jonas Valan?i?nas', 'Josh Hart', 'Herbert Jones', 'Jaxson Hayes'] - 7.90
+4. ['CJ McCollum', 'Jonas Valan?i?nas', 'Herbert Jones', 'Jaxson Hayes', 'Jose Alvarado'] - 7.90
+5. ['CJ McCollum', 'Josh Hart', 'Herbert Jones', 'Jaxson Hayes', 'Jose Alvarado'] - 7.90
+
+Total Feasible Lineups Found: 228
+
+========================================
+TEAM: UTA
+========================================
+
+Top 5 Lineups by PTS:
+1. ['Donovan Mitchell', 'Bojan Bogdanovi?', 'Jordan Clarkson', 'Rudy Gobert', 'Hassan Whiteside'] - 83.80
+2. ['Donovan Mitchell', 'Bojan Bogdanovi?', 'Jordan Clarkson', 'Rudy Gobert', 'Rudy Gay'] - 83.70
+3. ['Donovan Mitchell', 'Bojan Bogdanovi?', 'Jordan Clarkson', 'Rudy Gobert', 'Juancho Hernangómez'] - 81.80
+4. ['Donovan Mitchell', 'Bojan Bogdanovi?', 'Rudy Gobert', 'Mike Conley', 'Hassan Whiteside'] - 81.50
+5. ['Donovan Mitchell', 'Bojan Bogdanovi?', 'Rudy Gobert', 'Mike Conley', 'Rudy Gay'] - 81.40
+
+Top 5 Lineups by REB:
+1. ['Donovan Mitchell', 'Jordan Clarkson', 'Rudy Gobert', 'Hassan Whiteside', "Royce O'Neale"] - 34.80
+2. ['Donovan Mitchell', 'Jordan Clarkson', 'Rudy Gobert', 'Hassan Whiteside', 'Rudy Gay'] - 34.40
+3. ['Donovan Mitchell', 'Bojan Bogdanovi?', 'Jordan Clarkson', 'Rudy Gobert', 'Hassan Whiteside'] - 34.30
+4. ['Donovan Mitchell', 'Rudy Gobert', 'Mike Conley', 'Hassan Whiteside', "Royce O'Neale"] - 34.30
+5. ['Donovan Mitchell', 'Rudy Gobert', 'Hassan Whiteside', "Royce O'Neale", 'Joe Ingles'] - 34.20
+
+Top 5 Lineups by AST:
+1. ['Donovan Mitchell', 'Rudy Gobert', 'Mike Conley', 'Rudy Gay', 'Joe Ingles'] - 16.20
+2. ['Donovan Mitchell', 'Rudy Gobert', 'Mike Conley', 'Joe Ingles', 'Juancho Hernangómez'] - 16.00
+3. ['Donovan Mitchell', 'Mike Conley', 'Rudy Gay', 'Joe Ingles', 'Juancho Hernangómez'] - 15.90
+4. ['Donovan Mitchell', 'Rudy Gobert', 'Mike Conley', 'Hassan Whiteside', 'Joe Ingles'] - 15.60
+5. ['Donovan Mitchell', 'Mike Conley', 'Hassan Whiteside', 'Rudy Gay', 'Joe Ingles'] - 15.50
+
+Top 5 Lineups by DEF:
+1. ['Donovan Mitchell', 'Rudy Gobert', 'Mike Conley', 'Hassan Whiteside', "Royce O'Neale"] - 9.50
+2. ['Donovan Mitchell', 'Rudy Gobert', 'Mike Conley', 'Hassan Whiteside', 'Danuel House Jr.'] - 9.10
+3. ['Donovan Mitchell', 'Jordan Clarkson', 'Rudy Gobert', 'Mike Conley', 'Hassan Whiteside'] - 9.00
+4. ['Donovan Mitchell', 'Jordan Clarkson', 'Rudy Gobert', 'Hassan Whiteside', "Royce O'Neale"] - 8.90
+5. ['Donovan Mitchell', 'Rudy Gobert', 'Mike Conley', 'Hassan Whiteside', 'Juancho Hernangómez'] - 8.90
+
+Total Feasible Lineups Found: 180
+
+========================================
+TEAM: MIL
+========================================
+
+Top 5 Lineups by PTS:
+1. ['Giannis Antetokounmpo', 'Khris Middleton', 'Jrue Holiday', 'Bobby Portis', 'Brook Lopez'] - 95.30
+2. ['Giannis Antetokounmpo', 'Khris Middleton', 'Jrue Holiday', 'Bobby Portis', 'Grayson Allen'] - 94.00
+3. ['Giannis Antetokounmpo', 'Khris Middleton', 'Jrue Holiday', 'Bobby Portis', 'Pat Connaughton'] - 92.80
+4. ['Giannis Antetokounmpo', 'Khris Middleton', 'Jrue Holiday', 'Bobby Portis', 'DeMarcus Cousins'] - 92.00
+5. ['Giannis Antetokounmpo', 'Khris Middleton', 'Jrue Holiday', 'Bobby Portis', 'Jordan Nwora'] - 90.80
+
+Top 5 Lineups by REB:
+1. ['Giannis Antetokounmpo', 'Khris Middleton', 'Bobby Portis', 'DeMarcus Cousins', 'Serge Ibaka'] - 37.20
+2. ['Giannis Antetokounmpo', 'Khris Middleton', 'Jrue Holiday', 'Bobby Portis', 'DeMarcus Cousins'] - 36.40
+3. ['Giannis Antetokounmpo', 'Jrue Holiday', 'Bobby Portis', 'DeMarcus Cousins', 'Serge Ibaka'] - 36.30
+4. ['Giannis Antetokounmpo', 'Khris Middleton', 'Bobby Portis', 'Pat Connaughton', 'DeMarcus Cousins'] - 36.10
+5. ['Giannis Antetokounmpo', 'Khris Middleton', 'Bobby Portis', 'Brook Lopez', 'DeMarcus Cousins'] - 36.00
+
+Top 5 Lineups by AST:
+1. ['Giannis Antetokounmpo', 'Khris Middleton', 'Jrue Holiday', 'Bobby Portis', 'George Hill'] - 21.40
+2. ['Giannis Antetokounmpo', 'Khris Middleton', 'Jrue Holiday', 'DeMarcus Cousins', 'George Hill'] - 21.30
+3. ['Giannis Antetokounmpo', 'Khris Middleton', 'Jrue Holiday', 'Serge Ibaka', 'George Hill'] - 20.90
+4. ['Giannis Antetokounmpo', 'Khris Middleton', 'Jrue Holiday', 'Bobby Portis', 'Donte DiVincenzo'] - 20.90
+5. ['Giannis Antetokounmpo', 'Khris Middleton', 'Jrue Holiday', 'DeMarcus Cousins', 'Donte DiVincenzo'] - 20.80
+
+Top 5 Lineups by DEF:
+1. ['Giannis Antetokounmpo', 'Khris Middleton', 'Jrue Holiday', 'Bobby Portis', 'Brook Lopez'] - 9.20
+2. ['Giannis Antetokounmpo', 'Khris Middleton', 'Jrue Holiday', 'Brook Lopez', 'DeMarcus Cousins'] - 9.20
+3. ['Giannis Antetokounmpo', 'Jrue Holiday', 'Bobby Portis', 'Brook Lopez', 'Pat Connaughton'] - 8.80
+4. ['Giannis Antetokounmpo', 'Jrue Holiday', 'Brook Lopez', 'Pat Connaughton', 'DeMarcus Cousins'] - 8.80
+5. ['Giannis Antetokounmpo', 'Khris Middleton', 'Jrue Holiday', 'Bobby Portis', 'DeMarcus Cousins'] - 8.80
+
+Total Feasible Lineups Found: 232
+
+========================================
+TEAM: CLE
+========================================
+
+Top 5 Lineups by PTS:
+1. ['Darius Garland', 'Jarrett Allen', 'Evan Mobley', 'Lauri Markkanen', 'Ricky Rubio'] - 80.70
+2. ['Darius Garland', 'Jarrett Allen', 'Evan Mobley', 'Kevin Love', 'Ricky Rubio'] - 79.50
+3. ['Darius Garland', 'Jarrett Allen', 'Collin Sexton', 'Evan Mobley', 'Cedi Osman'] - 79.50
+4. ['Darius Garland', 'Jarrett Allen', 'Evan Mobley', 'Lauri Markkanen', 'Cedi Osman'] - 78.30
+5. ['Darius Garland', 'Jarrett Allen', 'Evan Mobley', 'Kevin Love', 'Cedi Osman'] - 77.10
+
+Top 5 Lineups by REB:
+1. ['Jarrett Allen', 'Evan Mobley', 'Lauri Markkanen', 'Kevin Love', 'Ricky Rubio'] - 36.10
+2. ['Darius Garland', 'Jarrett Allen', 'Evan Mobley', 'Kevin Love', 'Moses Brown'] - 34.90
+3. ['Jarrett Allen', 'Evan Mobley', 'Lauri Markkanen', 'Kevin Love', 'Rajon Rondo'] - 34.80
+4. ['Jarrett Allen', 'Evan Mobley', 'Kevin Love', 'Moses Brown', 'Rajon Rondo'] - 34.40
+5. ['Jarrett Allen', 'Evan Mobley', 'Lauri Markkanen', 'Kevin Love', 'Cedi Osman'] - 34.20
+
+Top 5 Lineups by AST:
+1. ['Darius Garland', 'Evan Mobley', 'Kevin Love', 'Ricky Rubio', 'Rajon Rondo'] - 24.80
+2. ['Darius Garland', 'Evan Mobley', 'Kevin Love', 'Ricky Rubio', 'Cedi Osman'] - 21.90
+3. ['Darius Garland', 'Jarrett Allen', 'Evan Mobley', 'Kevin Love', 'Ricky Rubio'] - 21.50
+4. ['Darius Garland', 'Jarrett Allen', 'Evan Mobley', 'Caris LeVert', 'Rajon Rondo'] - 21.50
+5. ['Darius Garland', 'Jarrett Allen', 'Evan Mobley', 'Ricky Rubio', 'Cedi Osman'] - 21.30
+
+Top 5 Lineups by DEF:
+1. ['Darius Garland', 'Jarrett Allen', 'Evan Mobley', 'Lauri Markkanen', 'Ricky Rubio'] - 8.80
+2. ['Darius Garland', 'Jarrett Allen', 'Evan Mobley', 'Ricky Rubio', 'Isaac Okoro'] - 8.70
+3. ['Darius Garland', 'Jarrett Allen', 'Evan Mobley', 'Ricky Rubio', 'Cedi Osman'] - 8.60
+4. ['Jarrett Allen', 'Evan Mobley', 'Lauri Markkanen', 'Ricky Rubio', 'Cedi Osman'] - 8.40
+5. ['Jarrett Allen', 'Evan Mobley', 'Lauri Markkanen', 'Ricky Rubio', 'Rajon Rondo'] - 8.30
+
+Total Feasible Lineups Found: 160
+
+========================================
+TEAM: IND
+========================================
+
+Top 5 Lineups by PTS:
+1. ['Malcolm Brogdon', 'Domantas Sabonis', 'Caris LeVert', 'Buddy Hield', 'Jalen Smith'] - 88.30
+2. ['Malcolm Brogdon', 'Domantas Sabonis', 'Caris LeVert', 'Tyrese Haliburton', 'Jalen Smith'] - 87.60
+3. ['Malcolm Brogdon', 'Domantas Sabonis', 'Buddy Hield', 'Tyrese Haliburton', 'Jalen Smith'] - 87.10
+4. ['Domantas Sabonis', 'Caris LeVert', 'Buddy Hield', 'Tyrese Haliburton', 'Jalen Smith'] - 86.70
+5. ['Domantas Sabonis', 'Caris LeVert', 'Buddy Hield', 'Tyrese Haliburton', 'Myles Turner'] - 86.20
+
+Top 5 Lineups by REB:
+1. ['Domantas Sabonis', 'Buddy Hield', 'Jalen Smith', 'Myles Turner', 'Terry Taylor'] - 37.10
+2. ['Malcolm Brogdon', 'Domantas Sabonis', 'Buddy Hield', 'Jalen Smith', 'Myles Turner'] - 37.00
+3. ['Domantas Sabonis', 'Tyrese Haliburton', 'Jalen Smith', 'Myles Turner', 'Terry Taylor'] - 36.30
+4. ['Domantas Sabonis', 'Buddy Hield', 'Tyrese Haliburton', 'Jalen Smith', 'Myles Turner'] - 36.20
+5. ['Malcolm Brogdon', 'Domantas Sabonis', 'Jalen Smith', 'Chris Duarte', 'Myles Turner'] - 36.00
+
+Top 5 Lineups by AST:
+1. ['Malcolm Brogdon', 'Domantas Sabonis', 'Buddy Hield', 'Tyrese Haliburton', 'Jalen Smith'] - 26.10
+2. ['Malcolm Brogdon', 'Domantas Sabonis', 'Caris LeVert', 'Tyrese Haliburton', 'Jalen Smith'] - 25.70
+3. ['Malcolm Brogdon', 'Domantas Sabonis', 'Tyrese Haliburton', 'Jalen Smith', 'Lance Stephenson'] - 25.20
+4. ['Domantas Sabonis', 'Caris LeVert', 'Buddy Hield', 'Tyrese Haliburton', 'Terry Taylor'] - 25.00
+5. ['Domantas Sabonis', 'Caris LeVert', 'Buddy Hield', 'Tyrese Haliburton', 'Myles Turner'] - 24.80
+
+Top 5 Lineups by DEF:
+1. ['Domantas Sabonis', 'Buddy Hield', 'Tyrese Haliburton', 'Jalen Smith', 'Myles Turner'] - 10.20
+2. ['Domantas Sabonis', 'Caris LeVert', 'Buddy Hield', 'Tyrese Haliburton', 'Myles Turner'] - 10.20
+3. ['Domantas Sabonis', 'Caris LeVert', 'Tyrese Haliburton', 'Jalen Smith', 'Myles Turner'] - 10.20
+4. ['Caris LeVert', 'Buddy Hield', 'Tyrese Haliburton', 'Jalen Smith', 'Myles Turner'] - 10.10
+5. ['Domantas Sabonis', 'Tyrese Haliburton', 'Jalen Smith', 'Chris Duarte', 'Myles Turner'] - 10.00
+
+Total Feasible Lineups Found: 192
+
+========================================
+TEAM: LAL
+========================================
+
+Top 5 Lineups by PTS:
+1. ['LeBron James', 'Anthony Davis', 'Russell Westbrook', 'Malik Monk', 'Carmelo Anthony'] - 99.10
+2. ['LeBron James', 'Anthony Davis', 'Russell Westbrook', 'Malik Monk', 'Talen Horton-Tucker'] - 95.80
+3. ['LeBron James', 'Anthony Davis', 'Russell Westbrook', 'Carmelo Anthony', 'Talen Horton-Tucker'] - 95.30
+4. ['LeBron James', 'Anthony Davis', 'Russell Westbrook', 'Malik Monk', 'Austin Reaves'] - 93.10
+5. ['LeBron James', 'Anthony Davis', 'Russell Westbrook', 'Carmelo Anthony', 'Austin Reaves'] - 92.60
+
+Top 5 Lineups by REB:
+1. ['LeBron James', 'Anthony Davis', 'Russell Westbrook', 'Wenyen Gabriel', 'Dwight Howard'] - 35.70
+2. ['LeBron James', 'Anthony Davis', 'Russell Westbrook', 'Carmelo Anthony', 'Dwight Howard'] - 35.60
+3. ['LeBron James', 'Anthony Davis', 'Russell Westbrook', 'Malik Monk', 'Dwight Howard'] - 34.80
+4. ['LeBron James', 'Anthony Davis', 'Russell Westbrook', 'Talen Horton-Tucker', 'Dwight Howard'] - 34.60
+5. ['LeBron James', 'Anthony Davis', 'Russell Westbrook', 'Austin Reaves', 'Dwight Howard'] - 34.60
+
+Top 5 Lineups by AST:
+1. ['LeBron James', 'Anthony Davis', 'Russell Westbrook', 'Malik Monk', 'Talen Horton-Tucker'] - 22.00
+2. ['LeBron James', 'Anthony Davis', 'Russell Westbrook', 'Malik Monk', 'Austin Reaves'] - 21.10
+3. ['LeBron James', 'Anthony Davis', 'Russell Westbrook', 'Malik Monk', 'Stanley Johnson'] - 21.00
+4. ['LeBron James', 'Russell Westbrook', 'Malik Monk', 'Talen Horton-Tucker', 'Austin Reaves'] - 20.70
+5. ['LeBron James', 'Russell Westbrook', 'Malik Monk', 'Talen Horton-Tucker', 'Stanley Johnson'] - 20.60
+
+Top 5 Lineups by DEF:
+1. ['LeBron James', 'Anthony Davis', 'Russell Westbrook', 'Carmelo Anthony', 'Talen Horton-Tucker'] - 10.20
+2. ['LeBron James', 'Anthony Davis', 'Malik Monk', 'Carmelo Anthony', 'Talen Horton-Tucker'] - 10.10
+3. ['LeBron James', 'Anthony Davis', 'Carmelo Anthony', 'Talen Horton-Tucker', 'Stanley Johnson'] - 10.10
+4. ['LeBron James', 'Anthony Davis', 'Carmelo Anthony', 'Talen Horton-Tucker', 'Dwight Howard'] - 10.10
+5. ['LeBron James', 'Anthony Davis', 'Russell Westbrook', 'Malik Monk', 'Carmelo Anthony'] - 9.90
+
+Total Feasible Lineups Found: 386
+
+========================================
+TEAM: ORL
+========================================
+
+Top 5 Lineups by PTS:
+1. ['Cole Anthony', 'Franz Wagner', 'Wendell Carter Jr.', 'Gary Harris', 'Mo Bamba'] - 68.20
+2. ['Cole Anthony', 'Franz Wagner', 'Wendell Carter Jr.', 'Mo Bamba', 'Terrence Ross'] - 67.10
+3. ['Cole Anthony', 'Franz Wagner', 'Wendell Carter Jr.', 'Gary Harris', 'Chuma Okeke'] - 66.20
+4. ['Cole Anthony', 'Franz Wagner', 'Wendell Carter Jr.', 'Mo Bamba', 'Chuma Okeke'] - 65.70
+5. ['Cole Anthony', 'Franz Wagner', 'Wendell Carter Jr.', 'Mo Bamba', 'R.J. Hampton'] - 64.70
+
+Top 5 Lineups by REB:
+1. ['Cole Anthony', 'Franz Wagner', 'Wendell Carter Jr.', 'Mo Bamba', 'Chuma Okeke'] - 33.50
+2. ['Cole Anthony', 'Wendell Carter Jr.', 'Mo Bamba', 'Chuma Okeke', 'R.J. Hampton'] - 32.00
+3. ['Franz Wagner', 'Wendell Carter Jr.', 'Mo Bamba', 'Moritz Wagner', 'Chuma Okeke'] - 31.80
+4. ['Franz Wagner', 'Wendell Carter Jr.', 'Jalen Suggs', 'Mo Bamba', 'Chuma Okeke'] - 31.70
+5. ['Franz Wagner', 'Wendell Carter Jr.', 'Mo Bamba', 'Chuma Okeke', 'Robin Lopez'] - 31.60
+
+Top 5 Lineups by AST:
+1. ['Cole Anthony', 'Franz Wagner', 'Markelle Fultz', 'Mo Bamba', 'Chuma Okeke'] - 17.00
+2. ['Cole Anthony', 'Markelle Fultz', 'Mo Bamba', 'Chuma Okeke', 'R.J. Hampton'] - 16.60
+3. ['Cole Anthony', 'Franz Wagner', 'Jalen Suggs', 'Mo Bamba', 'Chuma Okeke'] - 15.90
+4. ['Cole Anthony', 'Gary Harris', 'Markelle Fultz', 'Mo Bamba', 'Chuma Okeke'] - 15.90
+5. ['Franz Wagner', 'Jalen Suggs', 'Markelle Fultz', 'Mo Bamba', 'Chuma Okeke'] - 15.70
+
+Top 5 Lineups by DEF:
+1. ['Franz Wagner', 'Jalen Suggs', 'Markelle Fultz', 'Mo Bamba', 'Chuma Okeke'] - 8.50
+2. ['Franz Wagner', 'Wendell Carter Jr.', 'Jalen Suggs', 'Mo Bamba', 'Chuma Okeke'] - 8.40
+3. ['Jalen Suggs', 'Gary Harris', 'Markelle Fultz', 'Mo Bamba', 'Chuma Okeke'] - 8.30
+4. ['Franz Wagner', 'Jalen Suggs', 'Gary Harris', 'Mo Bamba', 'Chuma Okeke'] - 8.20
+5. ['Franz Wagner', 'Wendell Carter Jr.', 'Markelle Fultz', 'Mo Bamba', 'Chuma Okeke'] - 8.20
+
+Total Feasible Lineups Found: 132
+
+========================================
+TEAM: NYK
+========================================
+
+Top 5 Lineups by PTS:
+1. ['Julius Randle', 'RJ Barrett', 'Evan Fournier', 'Derrick Rose', 'Obi Toppin'] - 75.20
+2. ['Julius Randle', 'RJ Barrett', 'Evan Fournier', 'Alec Burks', 'Obi Toppin'] - 74.90
+3. ['Julius Randle', 'RJ Barrett', 'Evan Fournier', 'Derrick Rose', 'Mitchell Robinson'] - 74.70
+4. ['Julius Randle', 'RJ Barrett', 'Evan Fournier', 'Alec Burks', 'Mitchell Robinson'] - 74.40
+5. ['Julius Randle', 'RJ Barrett', 'Derrick Rose', 'Alec Burks', 'Obi Toppin'] - 72.80
+
+Top 5 Lineups by REB:
+1. ['Julius Randle', 'RJ Barrett', 'Alec Burks', 'Mitchell Robinson', 'Taj Gibson'] - 33.60
+2. ['Julius Randle', 'RJ Barrett', 'Alec Burks', 'Obi Toppin', 'Mitchell Robinson'] - 32.90
+3. ['Julius Randle', 'RJ Barrett', 'Obi Toppin', 'Mitchell Robinson', 'Taj Gibson'] - 32.40
+4. ['Julius Randle', 'RJ Barrett', 'Derrick Rose', 'Alec Burks', 'Mitchell Robinson'] - 32.20
+5. ['Julius Randle', 'RJ Barrett', 'Evan Fournier', 'Alec Burks', 'Mitchell Robinson'] - 31.80
+
+Top 5 Lineups by AST:
+1. ['Julius Randle', 'Derrick Rose', 'Alec Burks', 'Immanuel Quickley', 'Obi Toppin'] - 16.70
+2. ['Julius Randle', 'Derrick Rose', 'Alec Burks', 'Kemba Walker', 'Obi Toppin'] - 16.70
+3. ['Julius Randle', 'Derrick Rose', 'Alec Burks', 'Immanuel Quickley', 'Taj Gibson'] - 16.20
+4. ['Julius Randle', 'Derrick Rose', 'Alec Burks', 'Kemba Walker', 'Taj Gibson'] - 16.20
+5. ['Julius Randle', 'RJ Barrett', 'Derrick Rose', 'Alec Burks', 'Obi Toppin'] - 16.20
+
+Top 5 Lineups by DEF:
+1. ['Evan Fournier', 'Derrick Rose', 'Alec Burks', 'Mitchell Robinson', 'Taj Gibson'] - 7.70
+2. ['Julius Randle', 'Evan Fournier', 'Derrick Rose', 'Alec Burks', 'Mitchell Robinson'] - 7.70
+3. ['Julius Randle', 'Evan Fournier', 'Derrick Rose', 'Mitchell Robinson', 'Taj Gibson'] - 7.60
+4. ['Julius Randle', 'Derrick Rose', 'Alec Burks', 'Mitchell Robinson', 'Taj Gibson'] - 7.60
+5. ['Julius Randle', 'Evan Fournier', 'Alec Burks', 'Mitchell Robinson', 'Taj Gibson'] - 7.60
+
+Total Feasible Lineups Found: 288
+
+========================================
+TEAM: HOU
+========================================
+
+Top 5 Lineups by PTS:
+1. ['Christian Wood', 'Jalen Green', 'Kevin Porter Jr.', 'Eric Gordon', "Jae'Sean Tate"] - 76.00
+2. ['Christian Wood', 'Jalen Green', 'Kevin Porter Jr.', 'Eric Gordon', 'Alperen Þengün'] - 73.80
+3. ['Christian Wood', 'Jalen Green', 'Kevin Porter Jr.', "Jae'Sean Tate", 'Dennis Schröder'] - 73.50
+4. ['Christian Wood', 'Jalen Green', 'Kevin Porter Jr.', "Jae'Sean Tate", 'Garrison Mathews'] - 72.60
+5. ['Christian Wood', 'Jalen Green', 'Kevin Porter Jr.', 'Eric Gordon', 'Daniel Theis'] - 72.60
+
+Top 5 Lineups by REB:
+1. ['Christian Wood', "Jae'Sean Tate", 'Alperen Þengün', 'Kenyon Martin Jr.', 'Daniel Theis'] - 29.80
+2. ['Christian Wood', 'Jalen Green', "Jae'Sean Tate", 'Alperen Þengün', 'Daniel Theis'] - 29.40
+3. ['Christian Wood', 'Kevin Porter Jr.', "Jae'Sean Tate", 'Alperen Þengün', 'Kenyon Martin Jr.'] - 29.20
+4. ['Christian Wood', "Jae'Sean Tate", 'Garrison Mathews', 'Alperen Þengün', 'Daniel Theis'] - 28.90
+5. ['Christian Wood', 'Jalen Green', 'Kevin Porter Jr.', "Jae'Sean Tate", 'Alperen Þengün'] - 28.80
+
+Top 5 Lineups by AST:
+1. ['Kevin Porter Jr.', 'Eric Gordon', "Jae'Sean Tate", 'Dennis Schröder', 'Alperen Þengün'] - 20.20
+2. ['Jalen Green', 'Kevin Porter Jr.', "Jae'Sean Tate", 'Dennis Schröder', 'Alperen Þengün'] - 20.10
+3. ['Christian Wood', 'Kevin Porter Jr.', 'Eric Gordon', "Jae'Sean Tate", 'Dennis Schröder'] - 19.90
+4. ['Christian Wood', 'Jalen Green', 'Kevin Porter Jr.', "Jae'Sean Tate", 'Dennis Schröder'] - 19.80
+5. ['Christian Wood', 'Kevin Porter Jr.', "Jae'Sean Tate", 'Dennis Schröder', 'Josh Christopher'] - 19.20
+
+Top 5 Lineups by DEF:
+1. ['Christian Wood', 'Kevin Porter Jr.', "Jae'Sean Tate", 'Garrison Mathews', 'Alperen Þengün'] - 7.70
+2. ['Christian Wood', 'Kevin Porter Jr.', "Jae'Sean Tate", 'Alperen Þengün', 'Josh Christopher'] - 7.50
+3. ['Christian Wood', 'Kevin Porter Jr.', 'Garrison Mathews', 'Alperen Þengün', 'Josh Christopher'] - 7.40
+4. ['Christian Wood', 'Jalen Green', 'Kevin Porter Jr.', "Jae'Sean Tate", 'Alperen Þengün'] - 7.40
+5. ['Christian Wood', "Jae'Sean Tate", 'Garrison Mathews', 'Alperen Þengün', 'Josh Christopher'] - 7.30
+
+Total Feasible Lineups Found: 273
+
+========================================
+TEAM: WAS
+========================================
+
+Top 5 Lineups by PTS:
+1. ['Bradley Beal', 'Kristaps Porzi??is', 'Kyle Kuzma', 'Montrezl Harrell', 'Kentavious Caldwell-Pope'] - 89.70
+2. ['Bradley Beal', 'Kristaps Porzi??is', 'Kyle Kuzma', 'Montrezl Harrell', 'Spencer Dinwiddie'] - 89.10
+3. ['Bradley Beal', 'Kristaps Porzi??is', 'Kyle Kuzma', 'Kentavious Caldwell-Pope', 'Spencer Dinwiddie'] - 88.20
+4. ['Bradley Beal', 'Kristaps Porzi??is', 'Kyle Kuzma', 'Montrezl Harrell', 'Rui Hachimura'] - 87.80
+5. ['Bradley Beal', 'Kristaps Porzi??is', 'Kyle Kuzma', 'Kentavious Caldwell-Pope', 'Rui Hachimura'] - 86.90
+
+Top 5 Lineups by REB:
+1. ['Kristaps Porzi??is', 'Kyle Kuzma', 'Montrezl Harrell', 'Daniel Gafford', 'Deni Avdija'] - 34.90
+2. ['Kristaps Porzi??is', 'Kyle Kuzma', 'Montrezl Harrell', 'Spencer Dinwiddie', 'Daniel Gafford'] - 34.40
+3. ['Bradley Beal', 'Kristaps Porzi??is', 'Kyle Kuzma', 'Montrezl Harrell', 'Daniel Gafford'] - 34.40
+4. ['Kristaps Porzi??is', 'Kyle Kuzma', 'Montrezl Harrell', 'Spencer Dinwiddie', 'Deni Avdija'] - 33.90
+5. ['Bradley Beal', 'Kristaps Porzi??is', 'Kyle Kuzma', 'Montrezl Harrell', 'Deni Avdija'] - 33.90
+
+Top 5 Lineups by AST:
+1. ['Bradley Beal', 'Kristaps Porzi??is', 'Kyle Kuzma', 'Spencer Dinwiddie', 'Ish Smith'] - 24.00
+2. ['Bradley Beal', 'Kyle Kuzma', 'Montrezl Harrell', 'Spencer Dinwiddie', 'Ish Smith'] - 23.20
+3. ['Bradley Beal', 'Kyle Kuzma', 'Spencer Dinwiddie', 'Ish Smith', 'Deni Avdija'] - 23.10
+4. ['Bradley Beal', 'Kristaps Porzi??is', 'Montrezl Harrell', 'Spencer Dinwiddie', 'Ish Smith'] - 22.60
+5. ['Bradley Beal', 'Kristaps Porzi??is', 'Spencer Dinwiddie', 'Ish Smith', 'Deni Avdija'] - 22.50
+
+Top 5 Lineups by DEF:
+1. ['Kristaps Porzi??is', 'Kyle Kuzma', 'Kentavious Caldwell-Pope', 'Daniel Gafford', 'Ish Smith'] - 8.40
+2. ['Bradley Beal', 'Kristaps Porzi??is', 'Kyle Kuzma', 'Daniel Gafford', 'Ish Smith'] - 8.30
+3. ['Kristaps Porzi??is', 'Kyle Kuzma', 'Daniel Gafford', 'Ish Smith', 'Deni Avdija'] - 8.20
+4. ['Bradley Beal', 'Kristaps Porzi??is', 'Kyle Kuzma', 'Kentavious Caldwell-Pope', 'Daniel Gafford'] - 8.20
+5. ['Bradley Beal', 'Kristaps Porzi??is', 'Kentavious Caldwell-Pope', 'Daniel Gafford', 'Ish Smith'] - 8.20
+
+Total Feasible Lineups Found: 400
+
+========================================
+TEAM: PHO
+========================================
+
+Top 5 Lineups by PTS:
+1. ['Devin Booker', 'Deandre Ayton', 'Chris Paul', 'Mikal Bridges', 'JaVale McGee'] - 82.10
+2. ['Devin Booker', 'Deandre Ayton', 'Chris Paul', 'Cameron Johnson', 'JaVale McGee'] - 80.40
+3. ['Devin Booker', 'Deandre Ayton', 'Chris Paul', 'Mikal Bridges', 'Torrey Craig'] - 79.80
+4. ['Devin Booker', 'Deandre Ayton', 'Chris Paul', 'Mikal Bridges', 'Jalen Smith'] - 78.90
+5. ['Devin Booker', 'Deandre Ayton', 'Mikal Bridges', 'Cameron Payne', 'JaVale McGee'] - 78.20
+
+Top 5 Lineups by REB:
+1. ['Devin Booker', 'Deandre Ayton', 'Chris Paul', 'Jae Crowder', 'JaVale McGee'] - 31.60
+2. ['Devin Booker', 'Deandre Ayton', 'Chris Paul', 'JaVale McGee', 'Jalen Smith'] - 31.10
+3. ['Devin Booker', 'Deandre Ayton', 'Chris Paul', 'JaVale McGee', 'Torrey Craig'] - 30.60
+4. ['Devin Booker', 'Deandre Ayton', 'Chris Paul', 'Mikal Bridges', 'JaVale McGee'] - 30.50
+5. ['Devin Booker', 'Deandre Ayton', 'Chris Paul', 'Cameron Johnson', 'JaVale McGee'] - 30.40
+
+Top 5 Lineups by AST:
+1. ['Devin Booker', 'Deandre Ayton', 'Chris Paul', 'Cameron Payne', 'Torrey Craig'] - 23.10
+2. ['Devin Booker', 'Deandre Ayton', 'Chris Paul', 'Cameron Payne', 'Jalen Smith'] - 22.10
+3. ['Devin Booker', 'Deandre Ayton', 'Chris Paul', 'Torrey Craig', 'Aaron Holiday'] - 21.60
+4. ['Devin Booker', 'Chris Paul', 'JaVale McGee', 'Torrey Craig', 'Aaron Holiday'] - 20.80
+5. ['Deandre Ayton', 'Chris Paul', 'Mikal Bridges', 'Cameron Payne', 'Torrey Craig'] - 20.60
+
+Top 5 Lineups by DEF:
+1. ['Devin Booker', 'Chris Paul', 'Jae Crowder', 'JaVale McGee', 'Torrey Craig'] - 8.30
+2. ['Devin Booker', 'Deandre Ayton', 'Chris Paul', 'Jae Crowder', 'JaVale McGee'] - 8.30
+3. ['Devin Booker', 'Deandre Ayton', 'Chris Paul', 'Jae Crowder', 'Torrey Craig'] - 8.30
+4. ['Devin Booker', 'Deandre Ayton', 'Chris Paul', 'Mikal Bridges', 'JaVale McGee'] - 8.10
+5. ['Devin Booker', 'Chris Paul', 'Mikal Bridges', 'JaVale McGee', 'Torrey Craig'] - 8.10
+
+Total Feasible Lineups Found: 144
+
+========================================
+TEAM: SAC
+========================================
+
+Top 5 Lineups by PTS:
+1. ["De'Aaron Fox", 'Domantas Sabonis', 'Harrison Barnes', 'Buddy Hield', 'Richaun Holmes'] - 83.30
+2. ["De'Aaron Fox", 'Domantas Sabonis', 'Harrison Barnes', 'Tyrese Haliburton', 'Richaun Holmes'] - 83.20
+3. ["De'Aaron Fox", 'Domantas Sabonis', 'Harrison Barnes', 'Buddy Hield', 'Chimezie Metu'] - 81.80
+4. ["De'Aaron Fox", 'Domantas Sabonis', 'Harrison Barnes', 'Tyrese Haliburton', 'Chimezie Metu'] - 81.70
+5. ["De'Aaron Fox", 'Domantas Sabonis', 'Buddy Hield', 'Tyrese Haliburton', 'Trey Lyles'] - 81.40
+
+Top 5 Lineups by REB:
+1. ['Domantas Sabonis', 'Richaun Holmes', 'Donte DiVincenzo', 'Marvin Bagley III', 'Chimezie Metu'] - 36.50
+2. ['Domantas Sabonis', 'Tyrese Haliburton', 'Richaun Holmes', 'Marvin Bagley III', 'Chimezie Metu'] - 36.00
+3. ['Domantas Sabonis', 'Harrison Barnes', 'Richaun Holmes', 'Donte DiVincenzo', 'Chimezie Metu'] - 34.90
+4. ['Domantas Sabonis', 'Trey Lyles', 'Richaun Holmes', 'Donte DiVincenzo', 'Chimezie Metu'] - 34.90
+5. ['Domantas Sabonis', 'Buddy Hield', 'Richaun Holmes', 'Donte DiVincenzo', 'Marvin Bagley III'] - 34.90
+
+Top 5 Lineups by AST:
+1. ["De'Aaron Fox", 'Domantas Sabonis', 'Tyrese Haliburton', 'Davion Mitchell', 'Richaun Holmes'] - 24.10
+2. ["De'Aaron Fox", 'Domantas Sabonis', 'Tyrese Haliburton', 'Trey Lyles', 'Donte DiVincenzo'] - 23.70
+3. ["De'Aaron Fox", 'Domantas Sabonis', 'Tyrese Haliburton', 'Richaun Holmes', 'Donte DiVincenzo'] - 23.50
+4. ["De'Aaron Fox", 'Domantas Sabonis', 'Tyrese Haliburton', 'Donte DiVincenzo', 'Chimezie Metu'] - 23.40
+5. ["De'Aaron Fox", 'Domantas Sabonis', 'Tyrese Haliburton', 'Donte DiVincenzo', 'Marvin Bagley III'] - 23.00
+
+Top 5 Lineups by DEF:
+1. ["De'Aaron Fox", 'Tyrese Haliburton', 'Richaun Holmes', 'Donte DiVincenzo', 'Chimezie Metu'] - 8.40
+2. ["De'Aaron Fox", 'Domantas Sabonis', 'Tyrese Haliburton', 'Donte DiVincenzo', 'Chimezie Metu'] - 8.30
+3. ["De'Aaron Fox", 'Domantas Sabonis', 'Tyrese Haliburton', 'Richaun Holmes', 'Donte DiVincenzo'] - 8.20
+4. ['Domantas Sabonis', 'Tyrese Haliburton', 'Richaun Holmes', 'Donte DiVincenzo', 'Chimezie Metu'] - 8.00
+5. ['Tyrese Haliburton', 'Terence Davis', 'Richaun Holmes', 'Donte DiVincenzo', 'Chimezie Metu'] - 8.00
+
+Total Feasible Lineups Found: 216
+
+========================================
+TEAM: DET
+========================================
+
+Top 5 Lineups by PTS:
+1. ['Jerami Grant', 'Cade Cunningham', 'Saddiq Bey', 'Marvin Bagley III', 'Hamidou Diallo'] - 78.30
+2. ['Jerami Grant', 'Cade Cunningham', 'Saddiq Bey', 'Marvin Bagley III', 'Trey Lyles'] - 77.70
+3. ['Jerami Grant', 'Cade Cunningham', 'Saddiq Bey', 'Marvin Bagley III', 'Kelly Olynyk'] - 76.40
+4. ['Jerami Grant', 'Cade Cunningham', 'Saddiq Bey', 'Marvin Bagley III', 'Isaiah Stewart'] - 75.60
+5. ['Jerami Grant', 'Cade Cunningham', 'Saddiq Bey', 'Hamidou Diallo', 'Trey Lyles'] - 74.10
+
+Top 5 Lineups by REB:
+1. ['Jerami Grant', 'Cade Cunningham', 'Saddiq Bey', 'Marvin Bagley III', 'Isaiah Stewart'] - 30.50
+2. ['Jerami Grant', 'Saddiq Bey', 'Marvin Bagley III', 'Kelly Olynyk', 'Isaiah Stewart'] - 29.40
+3. ['Jerami Grant', 'Cade Cunningham', 'Saddiq Bey', 'Hamidou Diallo', 'Isaiah Stewart'] - 28.50
+4. ['Jerami Grant', 'Cade Cunningham', 'Saddiq Bey', 'Trey Lyles', 'Isaiah Stewart'] - 28.50
+5. ['Jerami Grant', 'Saddiq Bey', 'Marvin Bagley III', 'Isaiah Stewart', 'Killian Hayes'] - 28.20
+
+Top 5 Lineups by AST:
+1. ['Cade Cunningham', 'Saddiq Bey', 'Hamidou Diallo', 'Kelly Olynyk', 'Cory Joseph'] - 16.10
+2. ['Cade Cunningham', 'Saddiq Bey', 'Trey Lyles', 'Kelly Olynyk', 'Cory Joseph'] - 15.90
+3. ['Jerami Grant', 'Cade Cunningham', 'Hamidou Diallo', 'Kelly Olynyk', 'Cory Joseph'] - 15.70
+4. ['Jerami Grant', 'Cade Cunningham', 'Trey Lyles', 'Kelly Olynyk', 'Cory Joseph'] - 15.50
+5. ['Jerami Grant', 'Cade Cunningham', 'Marvin Bagley III', 'Kelly Olynyk', 'Cory Joseph'] - 15.50
+
+Top 5 Lineups by DEF:
+1. ['Jerami Grant', 'Cade Cunningham', 'Saddiq Bey', 'Hamidou Diallo', 'Isaiah Stewart'] - 7.80
+2. ['Jerami Grant', 'Cade Cunningham', 'Saddiq Bey', 'Hamidou Diallo', 'Kelly Olynyk'] - 7.70
+3. ['Jerami Grant', 'Cade Cunningham', 'Hamidou Diallo', 'Isaiah Stewart', 'Cory Joseph'] - 7.60
+4. ['Jerami Grant', 'Saddiq Bey', 'Hamidou Diallo', 'Isaiah Stewart', 'Killian Hayes'] - 7.60
+5. ['Jerami Grant', 'Cade Cunningham', 'Saddiq Bey', 'Kelly Olynyk', 'Isaiah Stewart'] - 7.60
+
+Total Feasible Lineups Found: 89
+
+========================================
+TEAM: CHO
+========================================
+
+Top 5 Lineups by PTS:
+1. ['Miles Bridges', 'LaMelo Ball', 'Terry Rozier', 'Gordon Hayward', 'Kelly Oubre Jr.'] - 90.50
+2. ['Miles Bridges', 'LaMelo Ball', 'Terry Rozier', 'Gordon Hayward', 'Montrezl Harrell'] - 86.90
+3. ['Miles Bridges', 'LaMelo Ball', 'Terry Rozier', 'Kelly Oubre Jr.', 'Montrezl Harrell'] - 86.00
+4. ['Miles Bridges', 'LaMelo Ball', 'Terry Rozier', 'Gordon Hayward', 'P.J. Washington'] - 85.80
+5. ['Miles Bridges', 'LaMelo Ball', 'Terry Rozier', 'Kelly Oubre Jr.', 'P.J. Washington'] - 84.90
+
+Top 5 Lineups by REB:
+1. ['Miles Bridges', 'LaMelo Ball', 'Montrezl Harrell', 'P.J. Washington', 'Mason Plumlee'] - 31.50
+2. ['Miles Bridges', 'LaMelo Ball', 'Gordon Hayward', 'P.J. Washington', 'Mason Plumlee'] - 31.20
+3. ['Miles Bridges', 'LaMelo Ball', 'Gordon Hayward', 'Montrezl Harrell', 'Mason Plumlee'] - 30.90
+4. ['Miles Bridges', 'LaMelo Ball', 'Terry Rozier', 'P.J. Washington', 'Mason Plumlee'] - 30.90
+5. ['Miles Bridges', 'LaMelo Ball', 'Kelly Oubre Jr.', 'P.J. Washington', 'Mason Plumlee'] - 30.60
+
+Top 5 Lineups by AST:
+1. ['Miles Bridges', 'LaMelo Ball', 'Terry Rozier', 'Gordon Hayward', 'Mason Plumlee'] - 22.60
+2. ['Miles Bridges', 'LaMelo Ball', 'Terry Rozier', 'Gordon Hayward', 'Cody Martin'] - 22.00
+3. ['Miles Bridges', 'LaMelo Ball', 'Terry Rozier', 'Gordon Hayward', 'P.J. Washington'] - 21.80
+4. ['Miles Bridges', 'LaMelo Ball', 'Terry Rozier', 'Gordon Hayward', 'Montrezl Harrell'] - 21.50
+5. ['Miles Bridges', 'LaMelo Ball', 'Terry Rozier', 'Cody Martin', 'Mason Plumlee'] - 21.50
+
+Top 5 Lineups by DEF:
+1. ['Miles Bridges', 'LaMelo Ball', 'Terry Rozier', 'P.J. Washington', 'Cody Martin'] - 8.80
+2. ['Miles Bridges', 'LaMelo Ball', 'P.J. Washington', 'Cody Martin', 'Mason Plumlee'] - 8.70
+3. ['LaMelo Ball', 'Terry Rozier', 'P.J. Washington', 'Cody Martin', 'Mason Plumlee'] - 8.60
+4. ['Miles Bridges', 'LaMelo Ball', 'Kelly Oubre Jr.', 'P.J. Washington', 'Cody Martin'] - 8.60
+5. ['Miles Bridges', 'LaMelo Ball', 'Gordon Hayward', 'P.J. Washington', 'Cody Martin'] - 8.60
+
+Total Feasible Lineups Found: 448
+
+========================================
+TEAM: CHI
+========================================
+
+Top 5 Lineups by PTS:
+1. ['DeMar DeRozan', 'Zach LaVine', 'Nikola Vu?evi?', 'Lonzo Ball', 'Tristan Thompson'] - 88.60
+2. ['DeMar DeRozan', 'Zach LaVine', 'Nikola Vu?evi?', 'Ayo Dosunmu', 'Tristan Thompson'] - 84.40
+3. ['DeMar DeRozan', 'Zach LaVine', 'Nikola Vu?evi?', 'Alex Caruso', 'Tristan Thompson'] - 83.00
+4. ['DeMar DeRozan', 'Zach LaVine', 'Nikola Vu?evi?', 'Javonte Green', 'Tristan Thompson'] - 82.80
+5. ['DeMar DeRozan', 'Zach LaVine', 'Nikola Vu?evi?', 'Tristan Thompson', 'Derrick Jones Jr.'] - 81.20
+
+Top 5 Lineups by REB:
+1. ['DeMar DeRozan', 'Zach LaVine', 'Nikola Vu?evi?', 'Lonzo Ball', 'Tristan Thompson'] - 30.90
+2. ['DeMar DeRozan', 'Nikola Vu?evi?', 'Lonzo Ball', 'Javonte Green', 'Tristan Thompson'] - 30.50
+3. ['DeMar DeRozan', 'Nikola Vu?evi?', 'Lonzo Ball', 'Patrick Williams', 'Tristan Thompson'] - 30.40
+4. ['DeMar DeRozan', 'Nikola Vu?evi?', 'Lonzo Ball', 'Alex Caruso', 'Tristan Thompson'] - 29.90
+5. ['Zach LaVine', 'Nikola Vu?evi?', 'Lonzo Ball', 'Javonte Green', 'Tristan Thompson'] - 29.90
+
+Top 5 Lineups by AST:
+1. ['DeMar DeRozan', 'Zach LaVine', 'Nikola Vu?evi?', 'Lonzo Ball', 'Tristan Thompson'] - 18.30
+2. ['DeMar DeRozan', 'Nikola Vu?evi?', 'Lonzo Ball', 'Alex Caruso', 'Tristan Thompson'] - 17.80
+3. ['Zach LaVine', 'Nikola Vu?evi?', 'Lonzo Ball', 'Alex Caruso', 'Tristan Thompson'] - 17.40
+4. ['DeMar DeRozan', 'Zach LaVine', 'Nikola Vu?evi?', 'Alex Caruso', 'Tristan Thompson'] - 17.20
+5. ['DeMar DeRozan', 'Nikola Vu?evi?', 'Lonzo Ball', 'Ayo Dosunmu', 'Tristan Thompson'] - 17.10
+
+Top 5 Lineups by DEF:
+1. ['Nikola Vu?evi?', 'Lonzo Ball', 'Alex Caruso', 'Javonte Green', 'Tristan Thompson'] - 9.10
+2. ['Nikola Vu?evi?', 'Lonzo Ball', 'Ayo Dosunmu', 'Alex Caruso', 'Tristan Thompson'] - 8.80
+3. ['DeMar DeRozan', 'Nikola Vu?evi?', 'Lonzo Ball', 'Alex Caruso', 'Tristan Thompson'] - 8.80
+4. ['Nikola Vu?evi?', 'Lonzo Ball', 'Patrick Williams', 'Alex Caruso', 'Tristan Thompson'] - 8.60
+5. ['Zach LaVine', 'Nikola Vu?evi?', 'Lonzo Ball', 'Alex Caruso', 'Tristan Thompson'] - 8.50
+
+Total Feasible Lineups Found: 98
+
+========================================
+TEAM: ATL
+========================================
+
+Top 5 Lineups by PTS:
+1. ['Trae Young', 'John Collins', 'Bogdan Bogdanovi?', "De'Andre Hunter", 'Clint Capela'] - 84.20
+2. ['Trae Young', 'John Collins', 'Bogdan Bogdanovi?', 'Kevin Huerter', 'Clint Capela'] - 82.90
+3. ['Trae Young', 'John Collins', 'Bogdan Bogdanovi?', 'Cam Reddish', 'Clint Capela'] - 82.70
+4. ['Trae Young', 'John Collins', 'Bogdan Bogdanovi?', 'Danilo Gallinari', 'Clint Capela'] - 82.50
+5. ['Trae Young', 'John Collins', 'Bogdan Bogdanovi?', "De'Andre Hunter", 'Onyeka Okongwu'] - 81.30
+
+Top 5 Lineups by REB:
+1. ['Trae Young', 'John Collins', 'Bogdan Bogdanovi?', 'Clint Capela', 'Onyeka Okongwu'] - 33.30
+2. ['John Collins', 'Bogdan Bogdanovi?', 'Kevin Huerter', 'Clint Capela', 'Onyeka Okongwu'] - 33.00
+3. ['Trae Young', 'John Collins', 'Kevin Huerter', 'Clint Capela', 'Onyeka Okongwu'] - 32.70
+4. ['John Collins', 'Bogdan Bogdanovi?', 'Clint Capela', 'Onyeka Okongwu', 'Delon Wright'] - 32.50
+5. ['Trae Young', 'John Collins', 'Clint Capela', 'Onyeka Okongwu', 'Delon Wright'] - 32.20
+
+Top 5 Lineups by AST:
+1. ['Trae Young', 'John Collins', 'Bogdan Bogdanovi?', 'Kevin Huerter', 'Clint Capela'] - 18.50
+2. ['Trae Young', 'John Collins', 'Bogdan Bogdanovi?', 'Kevin Huerter', 'Onyeka Okongwu'] - 18.40
+3. ['Trae Young', 'John Collins', 'Bogdan Bogdanovi?', 'Clint Capela', 'Delon Wright'] - 18.20
+4. ['Trae Young', 'John Collins', 'Bogdan Bogdanovi?', 'Onyeka Okongwu', 'Delon Wright'] - 18.10
+5. ['Trae Young', 'Bogdan Bogdanovi?', 'Kevin Huerter', 'Clint Capela', 'Onyeka Okongwu'] - 17.80
+
+Top 5 Lineups by DEF:
+1. ['John Collins', 'Bogdan Bogdanovi?', 'Clint Capela', 'Onyeka Okongwu', 'Delon Wright'] - 8.20
+2. ['John Collins', 'Kevin Huerter', 'Clint Capela', 'Onyeka Okongwu', 'Delon Wright'] - 8.00
+3. ['John Collins', 'Bogdan Bogdanovi?', 'Kevin Huerter', 'Clint Capela', 'Onyeka Okongwu'] - 7.90
+4. ['Bogdan Bogdanovi?', 'Cam Reddish', 'Clint Capela', 'Onyeka Okongwu', 'Delon Wright'] - 7.90
+5. ['Trae Young', 'John Collins', 'Clint Capela', 'Onyeka Okongwu', 'Delon Wright'] - 7.90
+
+Total Feasible Lineups Found: 143
+
+========================================
+TEAM: DEN
+========================================
+
+Top 5 Lineups by PTS:
+1. ['Nikola Joki?', 'Aaron Gordon', 'Will Barton', 'Bones Hyland', 'DeMarcus Cousins'] - 75.80
+2. ['Nikola Joki?', 'Aaron Gordon', 'Will Barton', 'Bones Hyland', 'JaMychal Green'] - 73.30
+3. ['Nikola Joki?', 'Aaron Gordon', 'Monte Morris', 'Bones Hyland', 'JaMychal Green'] - 71.20
+4. ['Nikola Joki?', 'Will Barton', 'Monte Morris', 'Bones Hyland', 'JaMychal Green'] - 70.90
+5. ['Nikola Joki?', 'Will Barton', 'Monte Morris', 'DeMarcus Cousins', 'JaMychal Green'] - 69.70
+
+Top 5 Lineups by REB:
+1. ['Nikola Joki?', 'Aaron Gordon', 'Will Barton', 'Bones Hyland', 'DeMarcus Cousins'] - 32.70
+2. ['Nikola Joki?', 'Will Barton', 'DeMarcus Cousins', 'Zeke Nnaji', 'JaMychal Green'] - 31.90
+3. ['Nikola Joki?', 'Aaron Gordon', 'Bones Hyland', 'DeMarcus Cousins', 'Zeke Nnaji'] - 31.50
+4. ['Nikola Joki?', 'Aaron Gordon', 'Will Barton', 'Bones Hyland', 'JaMychal Green'] - 31.40
+5. ['Nikola Joki?', 'Will Barton', 'Monte Morris', 'DeMarcus Cousins', 'JaMychal Green'] - 31.30
+
+Top 5 Lineups by AST:
+1. ['Nikola Joki?', 'Will Barton', 'Monte Morris', 'Bones Hyland', 'JaMychal Green'] - 19.90
+2. ['Nikola Joki?', 'Will Barton', 'Monte Morris', 'DeMarcus Cousins', 'PJ Dozier'] - 19.50
+3. ['Nikola Joki?', 'Will Barton', 'Monte Morris', 'DeMarcus Cousins', 'JaMychal Green'] - 18.80
+4. ['Nikola Joki?', 'Aaron Gordon', 'Will Barton', 'Bones Hyland', 'DeMarcus Cousins'] - 18.80
+5. ['Nikola Joki?', 'Will Barton', 'Monte Morris', 'JaMychal Green', 'PJ Dozier'] - 18.70
+
+Top 5 Lineups by DEF:
+1. ['Nikola Joki?', 'Aaron Gordon', 'Will Barton', 'Bones Hyland', 'JaMychal Green'] - 6.70
+2. ['Nikola Joki?', 'Aaron Gordon', 'Will Barton', 'Bones Hyland', 'DeMarcus Cousins'] - 6.70
+3. ['Nikola Joki?', 'Will Barton', 'Monte Morris', 'DeMarcus Cousins', 'JaMychal Green'] - 6.50
+4. ['Nikola Joki?', 'Will Barton', 'DeMarcus Cousins', 'JaMychal Green', 'Austin Rivers'] - 6.50
+5. ['Nikola Joki?', 'Will Barton', 'Bones Hyland', 'DeMarcus Cousins', 'JaMychal Green'] - 6.50
+
+Total Feasible Lineups Found: 124
+
+========================================
+TEAM: PHI
+========================================
+
+Top 5 Lineups by PTS:
+1. ['Joel Embiid', 'James Harden', 'Tyrese Maxey', 'Andre Drummond', 'Danny Green'] - 81.10
+2. ['Joel Embiid', 'James Harden', 'Tyrese Maxey', 'Andre Drummond', 'Matisse Thybulle'] - 80.90
+3. ['Joel Embiid', 'James Harden', 'Tobias Harris', 'Andre Drummond', 'Danny Green'] - 80.80
+4. ['Joel Embiid', 'James Harden', 'Tobias Harris', 'Andre Drummond', 'Matisse Thybulle'] - 80.60
+5. ['Joel Embiid', 'James Harden', 'Tobias Harris', 'Danny Green', 'Matisse Thybulle'] - 80.40
+
+Top 5 Lineups by REB:
+1. ['Joel Embiid', 'James Harden', 'Tobias Harris', 'Andre Drummond', 'DeAndre Jordan'] - 40.20
+2. ['Joel Embiid', 'James Harden', 'Tobias Harris', 'Andre Drummond', 'Danny Green'] - 36.90
+3. ['Joel Embiid', 'James Harden', 'Seth Curry', 'Andre Drummond', 'DeAndre Jordan'] - 36.80
+4. ['Joel Embiid', 'James Harden', 'Tobias Harris', 'Andre Drummond', 'Matisse Thybulle'] - 36.70
+5. ['Joel Embiid', 'Tobias Harris', 'Seth Curry', 'Andre Drummond', 'DeAndre Jordan'] - 36.50
+
+Top 5 Lineups by AST:
+1. ['Joel Embiid', 'James Harden', 'Tyrese Maxey', 'Andre Drummond', 'Matisse Thybulle'] - 22.10
+2. ['Joel Embiid', 'James Harden', 'Tyrese Maxey', 'Andre Drummond', 'Danny Green'] - 22.00
+3. ['Joel Embiid', 'James Harden', 'Seth Curry', 'Andre Drummond', 'Matisse Thybulle'] - 21.80
+4. ['Joel Embiid', 'James Harden', 'Seth Curry', 'Andre Drummond', 'Danny Green'] - 21.70
+5. ['Joel Embiid', 'James Harden', 'Tobias Harris', 'Andre Drummond', 'Matisse Thybulle'] - 21.30
+
+Top 5 Lineups by DEF:
+1. ['Joel Embiid', 'James Harden', 'Andre Drummond', 'Danny Green', 'Matisse Thybulle'] - 10.40
+2. ['Joel Embiid', 'Tobias Harris', 'Andre Drummond', 'Danny Green', 'Matisse Thybulle'] - 10.20
+3. ['Joel Embiid', 'Tyrese Maxey', 'Andre Drummond', 'Danny Green', 'Matisse Thybulle'] - 10.10
+4. ['Joel Embiid', 'Seth Curry', 'Andre Drummond', 'Danny Green', 'Matisse Thybulle'] - 10.00
+5. ['Joel Embiid', 'James Harden', 'Tobias Harris', 'Andre Drummond', 'Matisse Thybulle'] - 10.00
+
+Total Feasible Lineups Found: 148
+
+========================================
+TEAM: SAS
+========================================
+
+Top 5 Lineups by PTS:
+1. ['Dejounte Murray', 'Keldon Johnson', 'Derrick White', 'Jakob Poeltl', 'Devin Vassell'] - 78.30
+2. ['Dejounte Murray', 'Keldon Johnson', 'Derrick White', 'Jakob Poeltl', 'Lonnie Walker IV'] - 78.10
+3. ['Dejounte Murray', 'Keldon Johnson', 'Derrick White', 'Jakob Poeltl', 'Josh Richardson'] - 77.40
+4. ['Dejounte Murray', 'Keldon Johnson', 'Derrick White', 'Jakob Poeltl', 'Doug McDermott'] - 77.30
+5. ['Dejounte Murray', 'Keldon Johnson', 'Jakob Poeltl', 'Devin Vassell', 'Lonnie Walker IV'] - 76.00
+
+Top 5 Lineups by REB:
+1. ['Dejounte Murray', 'Keldon Johnson', 'Jakob Poeltl', 'Devin Vassell', 'Zach Collins'] - 33.50
+2. ['Dejounte Murray', 'Keldon Johnson', 'Jakob Poeltl', 'Zach Collins', 'Thaddeus Young'] - 32.80
+3. ['Dejounte Murray', 'Keldon Johnson', 'Derrick White', 'Jakob Poeltl', 'Zach Collins'] - 32.70
+4. ['Dejounte Murray', 'Keldon Johnson', 'Jakob Poeltl', 'Josh Richardson', 'Zach Collins'] - 32.10
+5. ['Dejounte Murray', 'Keldon Johnson', 'Jakob Poeltl', 'Lonnie Walker IV', 'Zach Collins'] - 31.80
+
+Top 5 Lineups by AST:
+1. ['Dejounte Murray', 'Derrick White', 'Jakob Poeltl', 'Josh Richardson', 'Tre Jones'] - 23.30
+2. ['Dejounte Murray', 'Derrick White', 'Jakob Poeltl', 'Zach Collins', 'Tre Jones'] - 23.20
+3. ['Dejounte Murray', 'Keldon Johnson', 'Derrick White', 'Jakob Poeltl', 'Tre Jones'] - 23.10
+4. ['Dejounte Murray', 'Derrick White', 'Jakob Poeltl', 'Devin Vassell', 'Tre Jones'] - 22.90
+5. ['Dejounte Murray', 'Derrick White', 'Josh Richardson', 'Zach Collins', 'Tre Jones'] - 22.70
+
+Top 5 Lineups by DEF:
+1. ['Dejounte Murray', 'Derrick White', 'Jakob Poeltl', 'Devin Vassell', 'Josh Richardson'] - 9.60
+2. ['Dejounte Murray', 'Derrick White', 'Jakob Poeltl', 'Devin Vassell', 'Zach Collins'] - 9.60
+3. ['Dejounte Murray', 'Derrick White', 'Jakob Poeltl', 'Devin Vassell', 'Thaddeus Young'] - 9.50
+4. ['Dejounte Murray', 'Keldon Johnson', 'Derrick White', 'Jakob Poeltl', 'Devin Vassell'] - 9.30
+5. ['Dejounte Murray', 'Derrick White', 'Jakob Poeltl', 'Devin Vassell', 'Lonnie Walker IV'] - 9.20
+
+Total Feasible Lineups Found: 406
+
+========================================
+TEAM: LAC
+========================================
+
+Top 5 Lineups by PTS:
+1. ['Paul George', 'Reggie Jackson', 'Marcus Morris', 'Robert Covington', 'Ivica Zubac'] - 77.20
+2. ['Paul George', 'Reggie Jackson', 'Marcus Morris', 'Robert Covington', 'Eric Bledsoe'] - 76.80
+3. ['Paul George', 'Reggie Jackson', 'Marcus Morris', 'Ivica Zubac', 'Eric Bledsoe'] - 76.70
+4. ['Paul George', 'Reggie Jackson', 'Marcus Morris', 'Robert Covington', 'Isaiah Hartenstein'] - 75.20
+5. ['Paul George', 'Reggie Jackson', 'Marcus Morris', 'Robert Covington', 'Nicolas Batum'] - 75.20
+
+Top 5 Lineups by REB:
+1. ['Paul George', 'Terance Mann', 'Robert Covington', 'Ivica Zubac', 'Isaiah Hartenstein'] - 30.60
+2. ['Paul George', 'Marcus Morris', 'Terance Mann', 'Robert Covington', 'Ivica Zubac'] - 30.10
+3. ['Paul George', 'Terance Mann', 'Robert Covington', 'Ivica Zubac', 'Nicolas Batum'] - 30.00
+4. ['Paul George', 'Marcus Morris', 'Terance Mann', 'Ivica Zubac', 'Isaiah Hartenstein'] - 29.90
+5. ['Paul George', 'Terance Mann', 'Ivica Zubac', 'Nicolas Batum', 'Isaiah Hartenstein'] - 29.80
+
+Top 5 Lineups by AST:
+1. ['Paul George', 'Reggie Jackson', 'Terance Mann', 'Eric Bledsoe', 'Isaiah Hartenstein'] - 19.70
+2. ['Paul George', 'Reggie Jackson', 'Marcus Morris', 'Eric Bledsoe', 'Isaiah Hartenstein'] - 19.20
+3. ['Paul George', 'Reggie Jackson', 'Luke Kennard', 'Eric Bledsoe', 'Isaiah Hartenstein'] - 19.20
+4. ['Paul George', 'Reggie Jackson', 'Terance Mann', 'Ivica Zubac', 'Eric Bledsoe'] - 18.90
+5. ['Paul George', 'Reggie Jackson', 'Eric Bledsoe', 'Amir Coffey', 'Isaiah Hartenstein'] - 18.90
+
+Top 5 Lineups by DEF:
+1. ['Paul George', 'Robert Covington', 'Eric Bledsoe', 'Nicolas Batum', 'Isaiah Hartenstein'] - 10.30
+2. ['Paul George', 'Robert Covington', 'Ivica Zubac', 'Nicolas Batum', 'Isaiah Hartenstein'] - 10.10
+3. ['Paul George', 'Robert Covington', 'Ivica Zubac', 'Eric Bledsoe', 'Isaiah Hartenstein'] - 10.10
+4. ['Paul George', 'Robert Covington', 'Ivica Zubac', 'Eric Bledsoe', 'Nicolas Batum'] - 10.00
+5. ['Paul George', 'Terance Mann', 'Robert Covington', 'Nicolas Batum', 'Isaiah Hartenstein'] - 9.60
+
+Total Feasible Lineups Found: 304
+
+========================================
+TEAM: OKC
+========================================
+
+Top 5 Lineups by PTS:
+1. ['Shai Gilgeous-Alexander', 'Luguentz Dort', 'Josh Giddey', 'Tre Mann', 'Isaiah Roby'] - 74.70
+2. ['Shai Gilgeous-Alexander', 'Luguentz Dort', 'Josh Giddey', 'Tre Mann', 'Mike Muscala'] - 72.60
+3. ['Shai Gilgeous-Alexander', 'Luguentz Dort', 'Josh Giddey', 'Isaiah Roby', 'Lindy Waters III'] - 72.30
+4. ['Shai Gilgeous-Alexander', 'Luguentz Dort', 'Josh Giddey', 'Isaiah Roby', 'Mike Muscala'] - 72.30
+5. ['Shai Gilgeous-Alexander', 'Luguentz Dort', 'Josh Giddey', 'Mike Muscala', 'Lindy Waters III'] - 70.20
+
+Top 5 Lineups by REB:
+1. ['Josh Giddey', 'Darius Bazley', 'Isaiah Roby', 'Aleksej Pokusevski', 'Jeremiah Robinson-Earl'] - 29.70
+2. ['Shai Gilgeous-Alexander', 'Josh Giddey', 'Darius Bazley', 'Isaiah Roby', 'Jeremiah Robinson-Earl'] - 29.50
+3. ['Josh Giddey', 'Darius Bazley', 'Isaiah Roby', 'Jeremiah Robinson-Earl', 'Kenrich Williams'] - 29.00
+4. ['Shai Gilgeous-Alexander', 'Josh Giddey', 'Isaiah Roby', 'Aleksej Pokusevski', 'Jeremiah Robinson-Earl'] - 28.40
+5. ['Josh Giddey', 'Darius Bazley', 'Mike Muscala', 'Aleksej Pokusevski', 'Jeremiah Robinson-Earl'] - 27.90
+
+Top 5 Lineups by AST:
+1. ['Shai Gilgeous-Alexander', 'Josh Giddey', 'Tre Mann', 'Isaiah Roby', 'Kenrich Williams'] - 17.60
+2. ['Shai Gilgeous-Alexander', 'Josh Giddey', 'Tre Mann', 'Isaiah Roby', 'Aleksej Pokusevski'] - 17.50
+3. ['Shai Gilgeous-Alexander', 'Luguentz Dort', 'Josh Giddey', 'Tre Mann', 'Isaiah Roby'] - 17.10
+4. ['Shai Gilgeous-Alexander', 'Josh Giddey', 'Isaiah Roby', 'Jeremiah Robinson-Earl', 'Kenrich Williams'] - 17.10
+5. ['Shai Gilgeous-Alexander', 'Josh Giddey', 'Isaiah Roby', 'Lindy Waters III', 'Kenrich Williams'] - 17.10
+
+Top 5 Lineups by DEF:
+1. ['Shai Gilgeous-Alexander', 'Josh Giddey', 'Darius Bazley', 'Isaiah Roby', 'Lindy Waters III'] - 7.90
+2. ['Shai Gilgeous-Alexander', 'Josh Giddey', 'Darius Bazley', 'Tre Mann', 'Isaiah Roby'] - 7.80
+3. ['Shai Gilgeous-Alexander', 'Darius Bazley', 'Isaiah Roby', 'Lindy Waters III', 'Aleksej Pokusevski'] - 7.80
+4. ['Shai Gilgeous-Alexander', 'Josh Giddey', 'Darius Bazley', 'Isaiah Roby', 'Mike Muscala'] - 7.80
+5. ['Shai Gilgeous-Alexander', 'Darius Bazley', 'Isaiah Roby', 'Mike Muscala', 'Aleksej Pokusevski'] - 7.70
+
+Total Feasible Lineups Found: 247
+
+========================================
+TEAM: MIN
+========================================
+
+Top 5 Lineups by PTS:
+1. ['Karl-Anthony Towns', 'Anthony Edwards', "D'Angelo Russell", 'Malik Beasley', 'Naz Reid'] - 84.40
+2. ['Karl-Anthony Towns', 'Anthony Edwards', "D'Angelo Russell", 'Malik Beasley', 'Jarred Vanderbilt'] - 83.00
+3. ['Karl-Anthony Towns', 'Anthony Edwards', "D'Angelo Russell", 'Jaden McDaniels', 'Naz Reid'] - 81.50
+4. ['Karl-Anthony Towns', 'Anthony Edwards', "D'Angelo Russell", 'Jaylen Nowell', 'Naz Reid'] - 80.80
+5. ['Karl-Anthony Towns', 'Anthony Edwards', "D'Angelo Russell", 'Jaden McDaniels', 'Jarred Vanderbilt'] - 80.10
+
+Top 5 Lineups by REB:
+1. ['Karl-Anthony Towns', 'Anthony Edwards', 'Jaden McDaniels', 'Patrick Beverley', 'Jarred Vanderbilt'] - 31.30
+2. ['Karl-Anthony Towns', 'Anthony Edwards', 'Jaden McDaniels', 'Naz Reid', 'Jarred Vanderbilt'] - 31.10
+3. ['Karl-Anthony Towns', 'Anthony Edwards', 'Patrick Beverley', 'Naz Reid', 'Jarred Vanderbilt'] - 31.00
+4. ['Karl-Anthony Towns', 'Anthony Edwards', "D'Angelo Russell", 'Jaden McDaniels', 'Jarred Vanderbilt'] - 30.50
+5. ['Karl-Anthony Towns', 'Jaden McDaniels', 'Patrick Beverley', 'Naz Reid', 'Jarred Vanderbilt'] - 30.40
+
+Top 5 Lineups by AST:
+1. ['Karl-Anthony Towns', 'Anthony Edwards', "D'Angelo Russell", 'Patrick Beverley', 'Jarred Vanderbilt'] - 20.40
+2. ['Karl-Anthony Towns', 'Anthony Edwards', "D'Angelo Russell", 'Patrick Beverley', 'Nathan Knight'] - 19.70
+3. ['Karl-Anthony Towns', 'Anthony Edwards', "D'Angelo Russell", 'Jarred Vanderbilt', 'Jordan McLaughlin'] - 18.70
+4. ['Karl-Anthony Towns', "D'Angelo Russell", 'Patrick Beverley', 'Jaylen Nowell', 'Jarred Vanderbilt'] - 18.70
+5. ['Karl-Anthony Towns', "D'Angelo Russell", 'Malik Beasley', 'Patrick Beverley', 'Jarred Vanderbilt'] - 18.10
+
+Top 5 Lineups by DEF:
+1. ['Karl-Anthony Towns', 'Anthony Edwards', 'Jaden McDaniels', 'Patrick Beverley', 'Jarred Vanderbilt'] - 9.70
+2. ['Karl-Anthony Towns', 'Anthony Edwards', 'Patrick Beverley', 'Naz Reid', 'Jarred Vanderbilt'] - 9.60
+3. ['Karl-Anthony Towns', 'Anthony Edwards', "D'Angelo Russell", 'Patrick Beverley', 'Jarred Vanderbilt'] - 9.50
+4. ['Karl-Anthony Towns', 'Anthony Edwards', 'Patrick Beverley', 'Jarred Vanderbilt', 'Jordan McLaughlin'] - 9.30
+5. ['Karl-Anthony Towns', 'Anthony Edwards', 'Jaden McDaniels', 'Patrick Beverley', 'Naz Reid'] - 9.20
+
+Total Feasible Lineups Found: 323
+
+========================================
+TEAM: DAL
+========================================
+
+Top 5 Lineups by PTS:
+1. ['Luka Don?i?', 'Kristaps Porzi??is', 'Jalen Brunson', 'Spencer Dinwiddie', 'Dorian Finney-Smith'] - 90.70
+2. ['Luka Don?i?', 'Kristaps Porzi??is', 'Jalen Brunson', 'Tim Hardaway Jr.', 'Dorian Finney-Smith'] - 89.10
+3. ['Luka Don?i?', 'Kristaps Porzi??is', 'Spencer Dinwiddie', 'Tim Hardaway Jr.', 'Dorian Finney-Smith'] - 88.60
+4. ['Luka Don?i?', 'Kristaps Porzi??is', 'Jalen Brunson', 'Tim Hardaway Jr.', 'Dwight Powell'] - 86.80
+5. ['Luka Don?i?', 'Kristaps Porzi??is', 'Jalen Brunson', 'Spencer Dinwiddie', 'Maxi Kleber'] - 86.70
+
+Top 5 Lineups by REB:
+1. ['Luka Don?i?', 'Kristaps Porzi??is', 'Jalen Brunson', 'Dwight Powell', 'Maxi Kleber'] - 31.50
+2. ['Luka Don?i?', 'Kristaps Porzi??is', 'Jalen Brunson', 'Dorian Finney-Smith', 'Maxi Kleber'] - 31.30
+3. ['Luka Don?i?', 'Kristaps Porzi??is', 'Spencer Dinwiddie', 'Dwight Powell', 'Maxi Kleber'] - 30.70
+4. ['Luka Don?i?', 'Kristaps Porzi??is', 'Spencer Dinwiddie', 'Dorian Finney-Smith', 'Maxi Kleber'] - 30.50
+5. ['Luka Don?i?', 'Kristaps Porzi??is', 'Jalen Brunson', 'Dorian Finney-Smith', 'Dwight Powell'] - 30.30
+
+Top 5 Lineups by AST:
+1. ['Luka Don?i?', 'Kristaps Porzi??is', 'Jalen Brunson', 'Spencer Dinwiddie', 'Dorian Finney-Smith'] - 21.30
+2. ['Luka Don?i?', 'Kristaps Porzi??is', 'Jalen Brunson', 'Spencer Dinwiddie', 'Josh Green'] - 20.60
+3. ['Luka Don?i?', 'Kristaps Porzi??is', 'Jalen Brunson', 'Spencer Dinwiddie', 'Maxi Kleber'] - 20.60
+4. ['Luka Don?i?', 'Jalen Brunson', 'Spencer Dinwiddie', 'Dorian Finney-Smith', 'Maxi Kleber'] - 20.50
+5. ['Luka Don?i?', 'Kristaps Porzi??is', 'Jalen Brunson', 'Spencer Dinwiddie', 'D?vis Bert?ns'] - 20.10
+
+Top 5 Lineups by DEF:
+1. ['Luka Don?i?', 'Kristaps Porzi??is', 'Spencer Dinwiddie', 'Dorian Finney-Smith', 'Maxi Kleber'] - 8.30
+2. ['Luka Don?i?', 'Kristaps Porzi??is', 'Jalen Brunson', 'Dorian Finney-Smith', 'Maxi Kleber'] - 8.10
+3. ['Luka Don?i?', 'Kristaps Porzi??is', 'Spencer Dinwiddie', 'Dorian Finney-Smith', 'Dwight Powell'] - 7.80
+4. ['Luka Don?i?', 'Kristaps Porzi??is', 'Spencer Dinwiddie', 'Tim Hardaway Jr.', 'Dorian Finney-Smith'] - 7.80
+5. ['Luka Don?i?', 'Kristaps Porzi??is', 'Spencer Dinwiddie', 'Dorian Finney-Smith', 'Josh Green'] - 7.70
+
+Total Feasible Lineups Found: 179
+
+========================================
+TEAM: GSW
+========================================
+
+Top 5 Lineups by PTS:
+1. ['Stephen Curry', 'Klay Thompson', 'Andrew Wiggins', 'Jonathan Kuminga', 'Otto Porter Jr.'] - 80.60
+2. ['Stephen Curry', 'Klay Thompson', 'Jordan Poole', 'Otto Porter Jr.', 'Draymond Green'] - 80.10
+3. ['Stephen Curry', 'Klay Thompson', 'Andrew Wiggins', 'Jonathan Kuminga', 'Draymond Green'] - 79.90
+4. ['Stephen Curry', 'Klay Thompson', 'Jordan Poole', 'Otto Porter Jr.', 'Gary Payton II'] - 79.70
+5. ['Stephen Curry', 'Klay Thompson', 'Andrew Wiggins', 'Jonathan Kuminga', 'Gary Payton II'] - 79.50
+
+Top 5 Lineups by REB:
+1. ['Stephen Curry', 'Andrew Wiggins', 'Otto Porter Jr.', 'Draymond Green', 'Kevon Looney'] - 30.00
+2. ['Stephen Curry', 'Otto Porter Jr.', 'Draymond Green', 'Nemanja Bjelica', 'Kevon Looney'] - 29.60
+3. ['Stephen Curry', 'Klay Thompson', 'Otto Porter Jr.', 'Draymond Green', 'Kevon Looney'] - 29.40
+4. ['Stephen Curry', 'Otto Porter Jr.', 'Draymond Green', 'Gary Payton II', 'Kevon Looney'] - 29.00
+5. ['Andrew Wiggins', 'Otto Porter Jr.', 'Draymond Green', 'Nemanja Bjelica', 'Kevon Looney'] - 28.90
+
+Top 5 Lineups by AST:
+1. ['Stephen Curry', 'Klay Thompson', 'Jordan Poole', 'Draymond Green', 'Nemanja Bjelica'] - 22.30
+2. ['Stephen Curry', 'Klay Thompson', 'Jordan Poole', 'Draymond Green', 'Kevon Looney'] - 22.10
+3. ['Stephen Curry', 'Jordan Poole', 'Andrew Wiggins', 'Draymond Green', 'Nemanja Bjelica'] - 21.70
+4. ['Stephen Curry', 'Klay Thompson', 'Jordan Poole', 'Otto Porter Jr.', 'Draymond Green'] - 21.60
+5. ['Stephen Curry', 'Jordan Poole', 'Andrew Wiggins', 'Draymond Green', 'Kevon Looney'] - 21.50
+
+Top 5 Lineups by DEF:
+1. ['Stephen Curry', 'Andrew Wiggins', 'Otto Porter Jr.', 'Draymond Green', 'Gary Payton II'] - 9.10
+2. ['Stephen Curry', 'Andrew Wiggins', 'Draymond Green', 'Gary Payton II', 'Kevon Looney'] - 8.70
+3. ['Stephen Curry', 'Andrew Wiggins', 'Otto Porter Jr.', 'Draymond Green', 'Kevon Looney'] - 8.60
+4. ['Stephen Curry', 'Otto Porter Jr.', 'Draymond Green', 'Gary Payton II', 'Kevon Looney'] - 8.60
+5. ['Stephen Curry', 'Jordan Poole', 'Andrew Wiggins', 'Draymond Green', 'Gary Payton II'] - 8.60
+
+Total Feasible Lineups Found: 448
+
+========================================
+TEAM: POR
+========================================
+
+Top 5 Lineups by PTS:
+1. ['Damian Lillard', 'CJ McCollum', 'Josh Hart', 'Jusuf Nurki?', 'Drew Eubanks'] - 93.90
+2. ['Damian Lillard', 'CJ McCollum', 'Norman Powell', 'Jusuf Nurki?', 'Drew Eubanks'] - 92.70
+3. ['Damian Lillard', 'Josh Hart', 'Norman Powell', 'Jusuf Nurki?', 'Drew Eubanks'] - 92.10
+4. ['Damian Lillard', 'CJ McCollum', 'Anfernee Simons', 'Jusuf Nurki?', 'Drew Eubanks'] - 91.30
+5. ['Damian Lillard', 'Josh Hart', 'Anfernee Simons', 'Jusuf Nurki?', 'Drew Eubanks'] - 90.70
+
+Top 5 Lineups by REB:
+1. ['CJ McCollum', 'Josh Hart', 'Jusuf Nurki?', 'Drew Eubanks', 'Justise Winslow'] - 35.60
+2. ['CJ McCollum', 'Josh Hart', 'Jusuf Nurki?', 'Drew Eubanks', 'Nassir Little'] - 34.90
+3. ['Josh Hart', 'Norman Powell', 'Jusuf Nurki?', 'Drew Eubanks', 'Justise Winslow'] - 34.60
+4. ['Josh Hart', 'Jusuf Nurki?', 'Drew Eubanks', 'Justise Winslow', 'Keon Johnson'] - 34.00
+5. ['Josh Hart', 'Anfernee Simons', 'Jusuf Nurki?', 'Drew Eubanks', 'Justise Winslow'] - 33.90
+
+Top 5 Lineups by AST:
+1. ['Damian Lillard', 'CJ McCollum', 'Josh Hart', 'Jusuf Nurki?', 'Justise Winslow'] - 21.80
+2. ['Damian Lillard', 'CJ McCollum', 'Anfernee Simons', 'Jusuf Nurki?', 'Justise Winslow'] - 21.40
+3. ['Damian Lillard', 'Josh Hart', 'Anfernee Simons', 'Jusuf Nurki?', 'Justise Winslow'] - 21.20
+4. ['Damian Lillard', 'CJ McCollum', 'Josh Hart', 'Drew Eubanks', 'Justise Winslow'] - 20.60
+5. ['Damian Lillard', 'CJ McCollum', 'Josh Hart', 'Jusuf Nurki?', 'Drew Eubanks'] - 20.50
+
+Top 5 Lineups by DEF:
+1. ['CJ McCollum', 'Jusuf Nurki?', 'Justise Winslow', 'Nassir Little', 'Keon Johnson'] - 8.20
+2. ['CJ McCollum', 'Jusuf Nurki?', 'Brandon Williams', 'Justise Winslow', 'Keon Johnson'] - 8.10
+3. ['CJ McCollum', 'Josh Hart', 'Jusuf Nurki?', 'Justise Winslow', 'Keon Johnson'] - 8.10
+4. ['CJ McCollum', 'Norman Powell', 'Jusuf Nurki?', 'Justise Winslow', 'Keon Johnson'] - 8.10
+5. ['CJ McCollum', 'Josh Hart', 'Jusuf Nurki?', 'Justise Winslow', 'Nassir Little'] - 8.10
+
+Total Feasible Lineups Found: 346
+
+========================================
+TEAM: BOS
+========================================
+
+Top 5 Lineups by PTS:
+1. ['Jayson Tatum', 'Jaylen Brown', 'Dennis Schröder', 'Marcus Smart', 'Al Horford'] - 87.20
+2. ['Jayson Tatum', 'Jaylen Brown', 'Dennis Schröder', 'Marcus Smart', 'Robert Williams'] - 87.00
+3. ['Jayson Tatum', 'Jaylen Brown', 'Dennis Schröder', 'Derrick White', 'Al Horford'] - 86.10
+4. ['Jayson Tatum', 'Jaylen Brown', 'Dennis Schröder', 'Derrick White', 'Robert Williams'] - 85.90
+5. ['Jayson Tatum', 'Jaylen Brown', 'Dennis Schröder', 'Al Horford', 'Robert Williams'] - 85.10
+
+Top 5 Lineups by REB:
+1. ['Jayson Tatum', 'Jaylen Brown', 'Al Horford', 'Robert Williams', 'Daniel Theis'] - 36.10
+2. ['Jayson Tatum', 'Jaylen Brown', 'Marcus Smart', 'Al Horford', 'Robert Williams'] - 35.20
+3. ['Jayson Tatum', 'Jaylen Brown', 'Al Horford', 'Robert Williams', 'Grant Williams'] - 35.00
+4. ['Jayson Tatum', 'Jaylen Brown', 'Derrick White', 'Al Horford', 'Robert Williams'] - 34.80
+5. ['Jayson Tatum', 'Jaylen Brown', 'Dennis Schröder', 'Al Horford', 'Robert Williams'] - 34.70
+
+Top 5 Lineups by AST:
+1. ['Jayson Tatum', 'Dennis Schröder', 'Marcus Smart', 'Derrick White', 'Al Horford'] - 21.40
+2. ['Jayson Tatum', 'Jaylen Brown', 'Dennis Schröder', 'Marcus Smart', 'Al Horford'] - 21.40
+3. ['Jayson Tatum', 'Jaylen Brown', 'Marcus Smart', 'Derrick White', 'Al Horford'] - 20.70
+4. ['Jayson Tatum', 'Jaylen Brown', 'Dennis Schröder', 'Marcus Smart', 'Robert Williams'] - 20.00
+5. ['Jayson Tatum', 'Dennis Schröder', 'Marcus Smart', 'Derrick White', 'Robert Williams'] - 20.00
+
+Top 5 Lineups by DEF:
+1. ['Jayson Tatum', 'Jaylen Brown', 'Marcus Smart', 'Al Horford', 'Robert Williams'] - 10.10
+2. ['Jayson Tatum', 'Marcus Smart', 'Al Horford', 'Robert Williams', 'Josh Richardson'] - 10.00
+3. ['Jayson Tatum', 'Marcus Smart', 'Al Horford', 'Robert Williams', 'Grant Williams'] - 9.90
+4. ['Jaylen Brown', 'Marcus Smart', 'Al Horford', 'Robert Williams', 'Josh Richardson'] - 9.80
+5. ['Jaylen Brown', 'Marcus Smart', 'Al Horford', 'Robert Williams', 'Grant Williams'] - 9.70
+
+Total Feasible Lineups Found: 415
+
+========================================
+OVERALL RESULTS
+========================================
+Average number of lineups: 269.19
+Most lineups: MEM with 560
+Least lineups: DET with 89
