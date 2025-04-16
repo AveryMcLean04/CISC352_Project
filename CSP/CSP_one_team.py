@@ -1,37 +1,50 @@
+"""
+CSP Lineup Generator – NBA Team Optimizer
+
+This script uses the OR-Tools CP-SAT solver to generate valid 5-man NBA lineups for a chosen team,
+based on constraints such as position balance, shooting ability, rebounding, playmaking, and defense.
+
+Author: Avery McLean
+"""
+
 import pandas as pd
 import json
 from ortools.sat.python import cp_model
 
-class LineupSolutionPrinter(cp_model.CpSolverSolutionCallback):
-    def __init__(self, variables):
-        cp_model.CpSolverSolutionCallback.__init__(self)
-        self.__variables = variables
-        self.__solution_count = 0
-        self.lineups = []
+# Mapping of team abbreviations to full names for user-friendliness
+team_abbreviations = {
+    "ATL": "Atlanta Hawks", "BOS": "Boston Celtics", "BRK": "Brooklyn Nets", "CHI": "Chicago Bulls",
+    "CHO": "Charlotte Hornets", "CLE": "Cleveland Cavaliers", "DAL": "Dallas Mavericks", "DEN": "Denver Nuggets",
+    "DET": "Detroit Pistons", "GSW": "Golden State Warriors", "HOU": "Houston Rockets", "IND": "Indiana Pacers",
+    "LAC": "LA Clippers", "LAL": "LA Lakers", "MEM": "Memphis Grizzlies", "MIA": "Miami Heat",
+    "MIL": "Milwaukee Bucks", "MIN": "Minnesota Timberwolves", "NOP": "New Orleans Pelicans", "NYK": "New York Knicks",
+    "OKC": "Oklahoma City Thunder", "ORL": "Orlando Magic", "PHI": "Philadelphia 76ers", "PHO": "Phoenix Suns",
+    "POR": "Portland Trail Blazers", "SAC": "Sacramento Kings", "SAS": "San Antonio Spurs", "TOR": "Toronto Raptors",
+    "UTA": "Utah Jazz", "WAS": "Washington Wizards"
+}
 
-    def on_solution_callback(self):
-        self.__solution_count += 1
-        lineup = [p for p in self.__variables if self.Value(self.__variables[p]) == 1]
-        self.lineups.append(lineup)
-        print(f"\nSolution {self.__solution_count}: {lineup}")
+# Display all valid team abbreviations
+print("Available Team Abbreviations:")
+for abbr, name in sorted(team_abbreviations.items()):
+    print(f"{abbr} - {name}")
 
-    @property
-    def solution_count(self):
-        return self.__solution_count
+# Prompt user to enter a team abbreviation
+team_name = input("\nEnter a team (abbr.): ")
 
-
+# Load dataset
 df = pd.read_csv("CSP/2021-2022 NBA Player Stats - Regular.csv", encoding="ISO-8859-1", delimiter=";")
 
-team_name = input("Enter a team (abbr.): ")
-
+# Filter top 12 players by points, minimum games and points per game
 top12 = (
     df[(df["Tm"] == team_name) & (df["G"] > 10) & (df["PTS"] > 3)]
     .sort_values(by="PTS", ascending=False).head(12)
 )
 
+# Position to numeric mapping
 pos_to_num = {"PG": 1, "SG": 2, "SF": 3, "PF": 4, "C": 5}
 player_list = list(top12["Player"])
 
+# Create dictionary of player stats
 player_vars = {
     row["Player"]: {
         "Pos": pos_to_num.get(row["Pos"], -1),
@@ -49,15 +62,38 @@ player_vars = {
     for _, row in top12.iterrows()
 }
 
+# Show the player data
 print("\nPlayer Data (Indexed):")
 print(json.dumps(player_vars, indent=4))
 
+# ---------------- CP-SAT Model ---------------- #
+
+class LineupSolutionPrinter(cp_model.CpSolverSolutionCallback):
+    """Callback class for collecting and printing all valid lineups."""
+    def __init__(self, variables):
+        super().__init__()
+        self.__variables = variables
+        self.__solution_count = 0
+        self.lineups = []
+
+    def on_solution_callback(self):
+        self.__solution_count += 1
+        lineup = [p for p in self.__variables if self.Value(self.__variables[p]) == 1]
+        self.lineups.append(lineup)
+        print(f"\nSolution {self.__solution_count}: {lineup}")
+
+    @property
+    def solution_count(self):
+        return self.__solution_count
+
+# Initialize model
 model = cp_model.CpModel()
 player_in = {player: model.NewBoolVar(player) for player in player_list}
 
+# Must select exactly 5 players
 model.Add(sum(player_in.values()) == 5)
 
-# Wings constraint
+# Wings constraint (SG, SF, PF)
 wings = sum(player_in[p] for p in player_list if player_vars[p]["Pos"] in [2, 3, 4])
 model.Add(wings >= 2)
 
@@ -104,6 +140,7 @@ for p in player_list:
         mid_def += player_in[p]
 model.Add(good_def + mid_def >= 3)
 
+# Solve model
 solver = cp_model.CpSolver()
 solution_printer = LineupSolutionPrinter(player_in)
 solver.parameters.enumerate_all_solutions = True
@@ -113,17 +150,22 @@ status = solver.Solve(model, solution_printer)
 print(f"\nStatus: {solver.StatusName(status)}")
 print(f"Total lineups found: {solution_printer.solution_count}")
 
+# ---------------- Metric Ranking ---------------- #
+
 def calculate_metric(lineup, metric):
+    """Returns the total value for a given metric (PTS, REB, etc.) across the lineup."""
     if metric == 'DEF':
         return sum(player_vars[p]['STL'] + player_vars[p]['BLK'] for p in lineup)
     return sum(player_vars[p][metric] for p in lineup)
 
+# Collect scores
 metrics = {'PTS': [], 'REB': [], 'AST': [], 'DEF': []}
-
 for lineup in solution_printer.lineups:
-    for metric in metrics.keys():
+    for metric in metrics:
         value = calculate_metric(lineup, metric)
         metrics[metric].append((lineup, value))
+
+# ---------------- Display Top Lineups ---------------- #
 
 print("\n" + "=" * 40)
 print("TOP 5 LINEUPS FOR", team_name)
